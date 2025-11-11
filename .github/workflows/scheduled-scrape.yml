@@ -27,6 +27,7 @@ jobs:
         uses: astral-sh/setup-uv@v7
         with:
           version: "latest" # or pin a specific version
+          cache-dependency-glob: "scrape.py"
 
       - name: Run scrape.py
         run: uv run --script scrape.py
