@@ -10,6 +10,7 @@ import logging
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import json
+import os
 import requests
 from bs4 import BeautifulSoup
 
@@ -81,12 +82,27 @@ def write_to_jsonl(movements, filename):
             f.write(json.dumps(movement) + "\n")
 
 
+def create_folder_structure():
+    """Create the data folder if it doesn't exist."""
+    os.makedirs("data", exist_ok=True)
+    year = datetime.now(ZoneInfo("Australia/Sydney")).year
+    os.makedirs(f"data/{year}", exist_ok=True)
+    month = datetime.now(ZoneInfo("Australia/Sydney")).month
+    os.makedirs(f"data/{year}/{month:02d}", exist_ok=True)
+    day = datetime.now(ZoneInfo("Australia/Sydney")).day
+    os.makedirs(f"data/{year}/{month:02d}/{day:02d}", exist_ok=True)
+
+    return f"data/{year}/{month:02d}/{day:02d}"
+
+
 def main() -> None:
     try:
         movements = gen_daily_movements()
         # get current local date/time for the filename
         isostring = datetime.now(ZoneInfo("Australia/Sydney")).strftime("%FT%H%M%z")
-        filename = f"{isostring}.jsonl"
+        # ensure data folder exists
+        dir = create_folder_structure()  # data/YYYY/MM/DD
+        filename = f"{dir}/{isostring}.jsonl"
         write_to_jsonl(movements, filename)
 
     except Exception as exc:
