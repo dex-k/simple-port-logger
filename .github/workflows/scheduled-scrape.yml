@@ -1,0 +1,48 @@
+name: Scheduled scrape
+
+on:
+  schedule:
+    # Every 5 minutes
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write # required so we can push commits
+
+concurrency:
+  group: scheduled-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # needed so we can push back
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: "latest" # or pin a specific version
+
+      - name: Run scrape.py
+        run: uv run --script scrape.py
+
+      - name: Commit and push if there are changes
+        env:
+          TZ: Australia/Sydney
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+
+            ts="$(date +"%Y-%m-%d %H:%M:%S %Z")"
+            git add data
+            git commit -m "chore(scrape): update vessel movements (${ts})"
+            git push
+          else
+            echo "No changes to commit."
+          fi
