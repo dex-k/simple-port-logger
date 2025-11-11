@@ -99,7 +99,7 @@ def main() -> None:
     try:
         movements = gen_daily_movements()
         # get current local date/time for the filename
-        isostring = datetime.now(ZoneInfo("Australia/Sydney")).strftime("%FT%H%M%z")
+        isostring = datetime.now(ZoneInfo("Australia/Sydney")).strftime("%F_%H%M%z")
         # ensure data folder exists
         dir = create_folder_structure()  # data/YYYY/MM/DD
         filename = f"{dir}/{isostring}.jsonl"
