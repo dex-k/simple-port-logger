@@ -32,6 +32,9 @@ jobs:
       - name: Run scrape.py
         run: uv run --script scrape.py
 
+      - name: Run consolidate.py
+        run: uv run --script consolidate.py
+
       - name: Commit and push if there are changes
         env:
           TZ: Australia/Sydney
