@@ -46,6 +46,8 @@ jobs:
             ts="$(date +"%Y-%m-%d %H:%M:%S %Z")"
             git add data
             git commit -m "chore(scrape): update vessel movements (${ts})"
+            git add *.jsonl
+            git commit -m "chore(consolidate): update consolidated vessel movements (${ts})"
             git push
           else
             echo "No changes to commit."
