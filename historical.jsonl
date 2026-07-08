@@ -12862,3 +12862,4 @@
 {"Date & Time": "2026-07-08T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sunrise Serenity", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kawasaki", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-07-08T19:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bregaglia", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Chinese Taipei - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-08T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Seacon Monaco", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-09T02:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sakura Crescent", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 6 (K6)", "To": "Souma", "In port": "Yes"}
