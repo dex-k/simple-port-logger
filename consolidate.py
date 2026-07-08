@@ -67,7 +67,7 @@ if __name__ == "__main__":
     future = [] # [0] is nearest [-1] is furthest
 
     # sort the files in the directory
-    files = list(get_files_in_directory(DIRECTORY))
+    files = sorted(list(get_files_in_directory(DIRECTORY)))
     print(f"Found {len(files)} schedules to consolidate:")
     print('\n'.join(files[:2]))
     print('...')
