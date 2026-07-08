@@ -66,8 +66,16 @@ if __name__ == "__main__":
     consolidated = [] # [0] is oldest [-1] is youngest
     future = [] # [0] is nearest [-1] is furthest
 
+    # sort the files in the directory
+    files = list(get_files_in_directory(DIRECTORY))
+    print(f"Found {len(files)} schedules to consolidate:")
+    print('\n'.join(files[:2]))
+    print('...')
+    print('\n'.join(files[-2:]))
+
+    print("\nConsolidating schedules...")
     # go through each schedule in order
-    for file_path in tqdm(get_files_in_directory(DIRECTORY)):
+    for file_path in tqdm(files):
 
         # get the date this schedule was pulled
         schedule_date = filename_to_datetime(file_path).replace(
@@ -87,8 +95,13 @@ if __name__ == "__main__":
 
         # whole current schedule is new future
         future = (deserialise(line) for line in get_lines_in_file(file_path))
+    
+    # Update
+    print(f"Generated consolidated historical schedule with {len(consolidated)} movements")
+    print(f"Most newest future schedule: {files[-1]}")
 
     # store what we have
     write_to_jsonl(consolidated, "historical.jsonl")
     write_to_jsonl(future, "newest.jsonl")
+    print("Wrote historical.jsonl and newest.jsonl to file")
 
