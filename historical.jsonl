@@ -12883,3 +12883,5 @@
 {"Date & Time": "2026-07-09T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xing an Hai", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 6 (K6)", "To": "Hoping", "In port": "Yes"}
 {"Date & Time": "2026-07-10T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shin Yahagi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kinuura", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-10T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bregaglia", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-10T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Citrus", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-10T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Legato II", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Onahama", "To": "Kooragang 4 (K4)", "In port": "No"}
