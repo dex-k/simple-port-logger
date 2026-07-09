@@ -12877,3 +12877,5 @@
 {"Date & Time": "2026-07-09T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Golden Hope", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Kakogawa", "In port": "Yes"}
 {"Date & Time": "2026-07-09T17:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cape Rainbow", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-09T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Beauty", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Yangpu", "To": "Mayfield 4 (M4)", "In port": "No"}
+{"Date & Time": "2026-07-09T19:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Indigo Breeze", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 9 (K9)", "To": "Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-09T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Lia M", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Lanshan Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
