@@ -12896,3 +12896,5 @@
 {"Date & Time": "2026-07-10T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Wincanton", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Gladstone", "In port": "Yes"}
 {"Date & Time": "2026-07-10T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Great Beauty", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Mayfield 4 (M4)", "To": "East Basin 2 (E2)", "In port": "Yes"}
 {"Date & Time": "2026-07-10T17:25:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mba Giovanni", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
+{"Date & Time": "2026-07-10T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Unity Melody", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Portland", "To": "Kooragang 2 (K2)", "In port": "No"}
+{"Date & Time": "2026-07-10T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shin Yahagi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Taketoyo", "In port": "Yes"}
