@@ -12899,3 +12899,5 @@
 {"Date & Time": "2026-07-10T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Unity Melody", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Portland", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-07-10T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shin Yahagi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Taketoyo", "In port": "Yes"}
 {"Date & Time": "2026-07-10T20:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Lin Miarak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Nadahama", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-07-10T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Chailease Bright", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Yokkaichi", "In port": "Yes"}
+{"Date & Time": "2026-07-11T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Optimum", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
