@@ -12923,3 +12923,4 @@
 {"Date & Time": "2026-07-12T04:31:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ateni", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
 {"Date & Time": "2026-07-12T04:40:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ocean Confidence", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-12T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Myrto C", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Tobata/Kitakyushu", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-07-12T07:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Voyager", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 7 (K7)", "In port": "No"}
