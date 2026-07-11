@@ -12914,3 +12914,4 @@
 {"Date & Time": "2026-07-11T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Triton", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tomakomai", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-11T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Optimum", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-07-11T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Lin Miarak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Nadahama", "In port": "Yes"}
+{"Date & Time": "2026-07-11T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pacific Kohinoor", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Botany Bay", "To": "Dyke 1 (D1)", "In port": "No"}
