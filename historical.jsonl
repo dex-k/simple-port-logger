@@ -12934,3 +12934,4 @@
 {"Date & Time": "2026-07-12T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABS", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
 {"Date & Time": "2026-07-12T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABS", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
 {"Date & Time": "2026-07-12T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Dian 85", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Hong Kong", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-07-12T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Emerald Putuo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Wakayama", "To": "Dyke 5 (D5)", "In port": "No"}
