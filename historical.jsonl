@@ -12939,3 +12939,4 @@
 {"Date & Time": "2026-07-12T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nd Aristeia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "San Lorenzo", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-07-13T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jns Dragon", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Melbourne", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-07-13T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Optimum", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-13T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Suoh Pacific", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 6 (K6)", "To": "Tokuyama", "In port": "Yes"}
