@@ -12936,3 +12936,4 @@
 {"Date & Time": "2026-07-12T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Dian 85", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Hong Kong", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-07-12T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Emerald Putuo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Wakayama", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-07-12T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Unity Melody", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Brisbane", "In port": "Yes"}
+{"Date & Time": "2026-07-12T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nd Aristeia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "San Lorenzo", "To": "Kooragang 2 (K2)", "In port": "No"}
