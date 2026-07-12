@@ -12941,3 +12941,4 @@
 {"Date & Time": "2026-07-13T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Optimum", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-13T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Suoh Pacific", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 6 (K6)", "To": "Tokuyama", "In port": "Yes"}
 {"Date & Time": "2026-07-13T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Myrto C", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-13T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Berge Jebel Jais", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "Yes"}
