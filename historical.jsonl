@@ -12961,3 +12961,4 @@
 {"Date & Time": "2026-07-14T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABS", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-07-14T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABS", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-07-14T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Jns Dragon", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 4 (D4)", "To": "Kanda, Fukuoka", "In port": "Yes"}
+{"Date & Time": "2026-07-14T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Australia - Unknown", "In port": "Yes"}
