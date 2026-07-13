@@ -12960,3 +12960,4 @@
 {"Date & Time": "2026-07-14T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tonquipearl", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kobe", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-14T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABS", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-07-14T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABS", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
+{"Date & Time": "2026-07-14T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Jns Dragon", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 4 (D4)", "To": "Kanda, Fukuoka", "In port": "Yes"}
