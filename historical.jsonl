@@ -12947,3 +12947,6 @@
 {"Date & Time": "2026-07-13T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kaiyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tokuyamakudamatsu", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-13T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "G. P. Zafirakis", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Jiangyin", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-13T12:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bbg Xijiang", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-07-13T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tao Brave", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Xiamen", "In port": "Yes"}
+{"Date & Time": "2026-07-13T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "G. P. Zafirakis", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Jiangyin", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-07-13T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yue Dian 85", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Rizhao Pt", "In port": "Yes"}
