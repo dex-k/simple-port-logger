@@ -12950,3 +12950,5 @@
 {"Date & Time": "2026-07-13T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tao Brave", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Xiamen", "In port": "Yes"}
 {"Date & Time": "2026-07-13T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "G. P. Zafirakis", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Jiangyin", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-13T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yue Dian 85", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Rizhao Pt", "In port": "Yes"}
+{"Date & Time": "2026-07-13T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Tobata/Kitakyushu", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-07-13T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Voyager", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Japan - Unknown", "In port": "Yes"}
