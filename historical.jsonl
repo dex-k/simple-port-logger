@@ -12955,3 +12955,4 @@
 {"Date & Time": "2026-07-13T19:20:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Erithiani", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "West Basin 3 (W3)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-13T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Epictetus", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-13T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ts Flower", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "East Basin 1 (E1)", "To": "Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-14T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Great Beauty", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "East Basin 2 (E2)", "To": "East Basin 1 (E1)", "In port": "Yes"}
