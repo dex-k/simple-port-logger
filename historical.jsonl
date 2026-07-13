@@ -12952,3 +12952,4 @@
 {"Date & Time": "2026-07-13T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yue Dian 85", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Rizhao Pt", "In port": "Yes"}
 {"Date & Time": "2026-07-13T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Tobata/Kitakyushu", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-07-13T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Voyager", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-13T19:20:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Erithiani", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "West Basin 3 (W3)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
