@@ -12975,3 +12975,5 @@
 {"Date & Time": "2026-07-14T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ocean Aphrodite", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-07-14T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flag Tom", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Longkou Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-15T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tonquipearl", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Kobe", "In port": "Yes"}
+{"Date & Time": "2026-07-15T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ammoxostos", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "Malaysia - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-15T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Myrto", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 4 (K4)", "In port": "No"}
