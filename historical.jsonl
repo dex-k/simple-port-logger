@@ -12985,3 +12985,4 @@
 {"Date & Time": "2026-07-15T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Emerald Putuo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Kashimae", "In port": "Yes"}
 {"Date & Time": "2026-07-15T19:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Myrto", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 4 (K4)", "To": "", "In port": "No"}
 {"Date & Time": "2026-07-15T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tw Jiangsu", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-07-16T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Richland Beijing", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
