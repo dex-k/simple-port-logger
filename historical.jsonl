@@ -12980,3 +12980,4 @@
 {"Date & Time": "2026-07-15T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Trust", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-15T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Petrel", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Marshall Islands - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-07-15T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shandong Fu De", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gaogang", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-07-15T10:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tiger Lily", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "Kaohsiung", "In port": "Yes"}
