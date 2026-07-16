@@ -13000,3 +13000,4 @@
 {"Date & Time": "2026-07-16T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "North Fortune", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-07-16T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spirit of Kobe", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Gladstone", "In port": "Yes"}
 {"Date & Time": "2026-07-16T20:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Oriental Greenstone", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Busan", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-07-16T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Petrel", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "New Caledonia - Unknown", "In port": "Yes"}
