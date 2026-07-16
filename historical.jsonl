@@ -12996,3 +12996,5 @@
 {"Date & Time": "2026-07-16T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Petani", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Gunsan", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-16T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Richland Beijing", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
 {"Date & Time": "2026-07-16T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yu Tong", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Onahama", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-07-16T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Xanadu", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-07-16T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "North Fortune", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 9 (K9)", "In port": "No"}
