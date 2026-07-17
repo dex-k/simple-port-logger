@@ -13009,3 +13009,5 @@
 {"Date & Time": "2026-07-17T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-17T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ken Jyo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "East Basin 1 (E1)", "In port": "No"}
 {"Date & Time": "2026-07-17T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "North Fortune", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 9 (K9)", "To": "Souma", "In port": "Yes"}
+{"Date & Time": "2026-07-17T17:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Fuji Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Prony", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-07-17T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Swift Yangzhou", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
