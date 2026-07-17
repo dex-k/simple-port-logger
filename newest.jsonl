@@ -56,7 +56,7 @@
 {"Date & Time": "2026-07-21T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sara", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Zhangzhou Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-21T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cemtex Dominance", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-07-21T13:34:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Leo Iris", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "IJmuiden/Velsen", "In port": "No"}
-{"Date & Time": "2026-07-21T14:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "United Halo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 3 (K3)", "To": "West Basin 4 (W4)", "In port": "No"}
+{"Date & Time": "2026-07-21T14:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "United Halo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 3 (K3)", "To": "West Basin 4 (W4)", "In port": "Yes"}
 {"Date & Time": "2026-07-21T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Asl Earth", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Yeosu", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-21T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pakhoi", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
 {"Date & Time": "2026-07-21T15:04:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bbg Dream", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
@@ -209,3 +209,4 @@
 {"Date & Time": "2026-08-01T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Glory", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-01T02:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sakura Dream", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-01T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kn Blossom", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "", "In port": "No"}
+{"Date & Time": "2026-08-01T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
