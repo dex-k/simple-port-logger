@@ -13011,3 +13011,4 @@
 {"Date & Time": "2026-07-17T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "North Fortune", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 9 (K9)", "To": "Souma", "In port": "Yes"}
 {"Date & Time": "2026-07-17T17:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Fuji Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Prony", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-07-17T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Swift Yangzhou", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-07-17T21:12:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Laura D", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
