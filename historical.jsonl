@@ -13019,3 +13019,4 @@
 {"Date & Time": "2026-07-18T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shoyo", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Matsuura, Nagasaki", "In port": "Yes"}
 {"Date & Time": "2026-07-18T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Medi Eolie", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Shanghai", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-18T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "United Halo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-07-18T07:19:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shinryo Maru", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
