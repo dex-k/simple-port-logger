@@ -13003,3 +13003,4 @@
 {"Date & Time": "2026-07-16T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Petrel", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "New Caledonia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-16T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flourish Power", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Zhoushan Pt", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-07-17T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shoyo", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Reihoku", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-07-17T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yu Tong", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
