@@ -1,4 +1,3 @@
-{"Date & Time": "2026-07-18T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Miyagawa Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Hitachinaka", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-07-18T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Energia Azalea", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Kudamatsu", "In port": "Yes"}
 {"Date & Time": "2026-07-18T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Genius", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-18T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Japan - Unknown", "In port": "Yes"}
