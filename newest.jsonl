@@ -204,3 +204,4 @@
 {"Date & Time": "2026-08-02T00:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Glory", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-02T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Victory", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-02T02:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nord Draco", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Unknown", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-08-02T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Dyke 4 (D4)", "To": "", "In port": "No"}
