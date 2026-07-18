@@ -13028,3 +13028,4 @@
 {"Date & Time": "2026-07-18T13:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Akuna", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-07-18T13:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Akuna", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Kooragang 2 (K2)", "To": "Gladstone", "In port": "No"}
 {"Date & Time": "2026-07-18T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Patier", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-07-18T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Grebe Arrow", "Vessel type": "Open Hatch Cargo Ship", "Agent": "ISS", "From": "Brisbane", "To": "East Basin 2 (E2)", "In port": "No"}
