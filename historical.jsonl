@@ -13037,3 +13037,4 @@
 {"Date & Time": "2026-07-19T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fuji Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Chiba", "In port": "Yes"}
 {"Date & Time": "2026-07-19T02:52:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shinryo Maru", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
 {"Date & Time": "2026-07-19T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Miyagawa Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Yokohama", "In port": "Yes"}
+{"Date & Time": "2026-07-19T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Am Tarang", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Mackay", "In port": "Yes"}
