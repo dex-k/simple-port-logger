@@ -13034,3 +13034,4 @@
 {"Date & Time": "2026-07-18T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Medi Eolie", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-18T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Shining", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Xinsha", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-19T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Swift Yangzhou", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 9 (K9)", "To": "Korea, South - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-19T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fuji Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Chiba", "In port": "Yes"}
