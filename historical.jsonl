@@ -13048,3 +13048,4 @@
 {"Date & Time": "2026-07-19T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nd Aristeia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Fremantle", "In port": "Yes"}
 {"Date & Time": "2026-07-19T20:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Federal Passion", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Portland", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-07-19T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hc Shining", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-19T22:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Genius", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
