@@ -13041,3 +13041,5 @@
 {"Date & Time": "2026-07-19T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Princess Kelly", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Jiangyin Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-07-19T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Taipower Prosperity VIII", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kaohsiung", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-19T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "FPMC B Guard", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Hong Kong", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-07-19T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Carina Pacific", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-07-19T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Patier", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "Yes"}
