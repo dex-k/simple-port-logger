@@ -13045,3 +13045,4 @@
 {"Date & Time": "2026-07-19T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Patier", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-19T16:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shandong Xin Fu", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Hong Kong, China - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-19T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Osaka Star", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kashima, Ibaraki", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-07-19T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nd Aristeia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Fremantle", "In port": "Yes"}
