@@ -1,4 +1,3 @@
-{"Date & Time": "2026-07-20T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ramanas Rose", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Mizushima", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-07-20T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Carina Pacific", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
 {"Date & Time": "2026-07-20T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Taipower Prosperity VIII", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Taichung", "In port": "Yes"}
 {"Date & Time": "2026-07-20T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maritime King", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tianjin", "To": "Kooragang 8 (K8)", "In port": "No"}
@@ -14,7 +13,7 @@
 {"Date & Time": "2026-07-21T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ramanas Rose", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 10 (K10)", "To": "Maizuru", "In port": "No"}
 {"Date & Time": "2026-07-21T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sara", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Zhangzhou Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-21T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leo Iris", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Nantong Pt", "To": "Kooragang 10 (K10)", "In port": "No"}
-{"Date & Time": "2026-07-21T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cemtex Dominance", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "No"}
+{"Date & Time": "2026-07-21T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cemtex Dominance", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-21T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shandong Civilization", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Rizhao Pt", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-07-21T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cemtex Leader", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Tachibana", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-21T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "First Margaux", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kaohsiung", "To": "Kooragang 5 (K5)", "In port": "No"}
