@@ -13061,3 +13061,4 @@
 {"Date & Time": "2026-07-20T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Progress 2", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Hong Kong", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-07-20T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Osaka Star", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Malaysia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-20T19:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Unity Melody", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Brisbane", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-07-20T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Diavolezza", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
