@@ -13064,3 +13064,4 @@
 {"Date & Time": "2026-07-20T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Diavolezza", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-20T23:29:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "FPMC B Guard", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Mai-liao", "In port": "Yes"}
 {"Date & Time": "2026-07-20T23:59:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Princess Kelly", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "Mai-liao", "In port": "Yes"}
+{"Date & Time": "2026-07-21T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leo Iris", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Nantong Pt", "To": "Kooragang 9 (K9)", "In port": "No"}

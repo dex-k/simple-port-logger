@@ -1,4 +1,3 @@
-{"Date & Time": "2026-07-21T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leo Iris", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Nantong Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-07-21T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Xanadu", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-21T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ramanas Rose", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 10 (K10)", "To": "Maizuru", "In port": "Yes"}
 {"Date & Time": "2026-07-21T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cemtex Dominance", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
@@ -206,3 +205,6 @@
 {"Date & Time": "2026-08-03T18:59:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spring Glory", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-03T19:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Athina Zafirakis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Shanghai Pt", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-04T00:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pakhoi", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "No"}
+{"Date & Time": "2026-08-04T00:26:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Energy Prometheus", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 10 (K10)", "To": "Tsuruga", "In port": "No"}
+{"Date & Time": "2026-08-04T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Dian 83", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhanjiang Pt", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-08-04T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shi Dai 1", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Kooragang 4 (K4)", "In port": "No"}
