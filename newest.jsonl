@@ -208,3 +208,4 @@
 {"Date & Time": "2026-08-04T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Utility", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Busan New Port", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-04T22:32:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Double Delight", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-04T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Athina Zafirakis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 5 (D5)", "To": "Japan - Unknown", "In port": "No"}
+{"Date & Time": "2026-08-05T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "W-Smash", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
