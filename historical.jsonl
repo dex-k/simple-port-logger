@@ -13079,3 +13079,4 @@
 {"Date & Time": "2026-07-22T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Andrea Palladio", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-22T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bbg Yongjiang", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-22T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nehir", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Risdon", "To": "Dyke 2 (D2)", "In port": "No"}
+{"Date & Time": "2026-07-22T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Asl Earth", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Yeosu", "To": "Kooragang 6 (K6)", "In port": "No"}
