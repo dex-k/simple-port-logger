@@ -13075,3 +13075,4 @@
 {"Date & Time": "2026-07-21T19:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Federal Passion", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Port Kembla", "In port": "Yes"}
 {"Date & Time": "2026-07-21T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tampa Bay", "Vessel type": "Bulk Carrier", "Agent": "WAV", "From": "Geelong", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-07-21T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maritime King", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 8 (K8)", "To": "Vietnam - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-21T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Xanadu", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "Yes"}
