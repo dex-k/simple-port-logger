@@ -13072,3 +13072,5 @@
 {"Date & Time": "2026-07-21T11:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nan May", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Higashiharima", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-21T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shandong Civilization", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Rizhao Pt", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-21T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sara", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Zhangzhou Pt", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-07-21T19:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Federal Passion", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Port Kembla", "In port": "Yes"}
+{"Date & Time": "2026-07-21T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tampa Bay", "Vessel type": "Bulk Carrier", "Agent": "WAV", "From": "Geelong", "To": "Kooragang 2 (K2)", "In port": "No"}
