@@ -13091,3 +13091,8 @@
 {"Date & Time": "2026-07-22T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shin Sanyo Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-22T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Yongjiang", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-07-22T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Nehir", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Dyke 2 (D2)", "In port": "Yes"}
+{"Date & Time": "2026-07-22T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Nehir", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Dyke 2 (D2)", "In port": "Yes"}
+{"Date & Time": "2026-07-22T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Xin Dong Guan 16", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Xinsha", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-07-22T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Luga", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
+{"Date & Time": "2026-07-22T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Rgl First", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
+{"Date & Time": "2026-07-22T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Unity Melody", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "Yes"}
