@@ -13118,3 +13118,4 @@
 {"Date & Time": "2026-07-23T19:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shin Sanyo Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Misumi, Kumamoto", "In port": "Yes"}
 {"Date & Time": "2026-07-23T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Velos Adamas", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kinuura", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-23T22:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tampa Bay", "Vessel type": "Bulk Carrier", "Agent": "WAV", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-24T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yasa Moon", "Vessel type": "Bulk Carrier", "Agent": "WAV", "From": "Trincomalee", "To": "Kooragang 2 (K2)", "In port": "No"}
