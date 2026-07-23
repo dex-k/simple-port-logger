@@ -1,4 +1,3 @@
-{"Date & Time": "2026-07-24T08:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "First Margaux", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "Kaohsiung", "In port": "Yes"}
 {"Date & Time": "2026-07-24T09:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yodohime", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Ishikawa", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-24T11:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Isuzu Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yokohama", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-07-24T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "FPMC B 108", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Mai-liao", "In port": "Yes"}

@@ -13121,3 +13121,4 @@
 {"Date & Time": "2026-07-24T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yasa Moon", "Vessel type": "Bulk Carrier", "Agent": "WAV", "From": "Trincomalee", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-07-24T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Dream", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Malaysia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-24T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Medi Argentario", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kinuura", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-07-24T08:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "First Margaux", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "Kaohsiung", "In port": "Yes"}
