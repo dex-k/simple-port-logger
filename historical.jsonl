@@ -13114,3 +13114,4 @@
 {"Date & Time": "2026-07-23T16:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hokuriku Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-23T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABS", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
 {"Date & Time": "2026-07-23T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABS", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
+{"Date & Time": "2026-07-23T17:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Swansea", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "", "In port": "No"}
