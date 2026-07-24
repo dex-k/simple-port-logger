@@ -13131,3 +13131,5 @@
 {"Date & Time": "2026-07-24T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hokuriku Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 6 (K6)", "To": "Nanao", "In port": "Yes"}
 {"Date & Time": "2026-07-24T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Luga", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Kooragang 2 (K2)", "To": "Melbourne", "In port": "No"}
 {"Date & Time": "2026-07-25T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Velos Adamas", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-25T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yodohime", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Tachibana", "In port": "Yes"}
+{"Date & Time": "2026-07-25T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Rgl First", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 5 (K5)", "In port": "No"}
