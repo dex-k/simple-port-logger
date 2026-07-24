@@ -13134,3 +13134,4 @@
 {"Date & Time": "2026-07-25T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yodohime", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Tachibana", "In port": "Yes"}
 {"Date & Time": "2026-07-25T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Rgl First", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-25T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ocean Artemis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Luohe", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-07-25T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Medi Argentario", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Niihama", "In port": "Yes"}
