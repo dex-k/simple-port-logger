@@ -13141,3 +13141,5 @@
 {"Date & Time": "2026-07-25T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Peak Rainier", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kobe", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-25T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Metis Horizon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Oita", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-07-25T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Niihama", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-07-25T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Scarlet Oak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tokuyama", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-07-25T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ken Jyo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Quang Ninh", "To": "East Basin 1 (E1)", "In port": "No"}
