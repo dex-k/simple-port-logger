@@ -13148,3 +13148,5 @@
 {"Date & Time": "2026-07-25T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Angelic Breeze", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tsukumi", "To": "Kooragang 3 (K3)", "In port": "No"}
 {"Date & Time": "2026-07-26T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cielo D' Italia", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Fukuyama, Hiroshima", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-07-26T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Nature", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-26T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kagawa Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Sakaide", "In port": "Yes"}
+{"Date & Time": "2026-07-26T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ocean Artemis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Malaysia - Unknown", "In port": "No"}
