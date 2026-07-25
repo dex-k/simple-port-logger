@@ -175,7 +175,6 @@
 {"Date & Time": "2026-08-08T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Newcastle", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-08T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Euripides Graecia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "Unknown", "In port": "No"}
 {"Date & Time": "2026-08-08T09:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jastella", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Bahudopi", "To": "Mayfield 7 (M7)", "In port": "No"}
-{"Date & Time": "2026-08-08T09:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Primrose Atlantic", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "No"}
 {"Date & Time": "2026-08-08T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Asphalt Transporter", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Kaohsiung", "To": "Mayfield 7 (M7)", "In port": "No"}
 {"Date & Time": "2026-08-08T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Wealth", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-08T11:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Da 2", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
@@ -192,3 +191,4 @@
 {"Date & Time": "2026-08-09T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wooyang Dandy", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-09T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Atlantic Samurai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-09T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-09T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Primrose Atlantic", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "No"}
