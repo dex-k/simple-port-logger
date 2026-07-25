@@ -13151,3 +13151,4 @@
 {"Date & Time": "2026-07-26T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kagawa Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Sakaide", "In port": "Yes"}
 {"Date & Time": "2026-07-26T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ocean Artemis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Malaysia - Unknown", "In port": "No"}
 {"Date & Time": "2026-07-26T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Wisdom", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Busan New Port", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-07-26T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "United Halo", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "West Basin 4 (W4)", "To": "Australia - Unknown", "In port": "Yes"}
