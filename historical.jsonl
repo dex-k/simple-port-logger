@@ -13143,3 +13143,4 @@
 {"Date & Time": "2026-07-25T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Niihama", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-07-25T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Scarlet Oak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tokuyama", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-25T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ken Jyo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Quang Ninh", "To": "East Basin 1 (E1)", "In port": "No"}
+{"Date & Time": "2026-07-25T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pakhoi", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Gladstone", "In port": "Yes"}
