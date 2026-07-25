@@ -180,7 +180,6 @@
 {"Date & Time": "2026-08-08T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Wealth", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-08T11:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Da 2", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-08T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Atlantic Samurai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 7 (K7)", "In port": "No"}
-{"Date & Time": "2026-08-08T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-08T19:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Navios Sphera", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-08T20:10:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Double Delight", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-08T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shi Dai 1", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Xiamen", "In port": "No"}
@@ -192,3 +191,4 @@
 {"Date & Time": "2026-08-09T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Challenger", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-09T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wooyang Dandy", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-09T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Atlantic Samurai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
+{"Date & Time": "2026-08-09T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
