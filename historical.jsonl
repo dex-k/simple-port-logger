@@ -13136,3 +13136,5 @@
 {"Date & Time": "2026-07-25T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ocean Artemis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Luohe", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-07-25T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Medi Argentario", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Niihama", "In port": "Yes"}
 {"Date & Time": "2026-07-25T10:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Niihama", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-07-25T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Great Beauty", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "East Basin 1 (E1)", "To": "Brisbane", "In port": "Yes"}
+{"Date & Time": "2026-07-25T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Scarlet Oak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tokuyama", "To": "Kooragang 6 (K6)", "In port": "No"}
