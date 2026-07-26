@@ -178,7 +178,6 @@
 {"Date & Time": "2026-08-09T00:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Saikai Maru II", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-09T02:16:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bbg Journey", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-09T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Socrates Graecia", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
-{"Date & Time": "2026-08-09T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Msxt Emily", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Wakayama", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-09T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Challenger", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-09T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-09T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Brisbane", "To": "Dyke 4 (D4)", "In port": "No"}
@@ -194,3 +193,5 @@
 {"Date & Time": "2026-08-09T21:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Queen", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-10T00:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Moning", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-10T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yue Da 2", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 6 (K6)", "To": "Unknown", "In port": "No"}
+{"Date & Time": "2026-08-10T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Msxt Emily", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Wakayama", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-10T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Chailease Blossom", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Zhoushan Pt", "To": "West Basin 3 (W3)", "In port": "No"}
