@@ -13166,3 +13166,4 @@
 {"Date & Time": "2026-07-27T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABS", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-07-27T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABS", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-07-27T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yasa Moon", "Vessel type": "Bulk Carrier", "Agent": "WAV", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
+{"Date & Time": "2026-07-27T07:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wincanton", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
