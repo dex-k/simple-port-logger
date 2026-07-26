@@ -13162,3 +13162,4 @@
 {"Date & Time": "2026-07-26T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Niihama", "In port": "Yes"}
 {"Date & Time": "2026-07-26T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Peak Rainier", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-26T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cielo D' Italia", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Dyke 5 (D5)", "To": "Gladstone", "In port": "Yes"}
+{"Date & Time": "2026-07-26T23:33:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Narooma", "Vessel type": "Tug", "Agent": "ABS", "From": "Eglo (EGLO)", "To": "Newcastle", "In port": "Yes"}
