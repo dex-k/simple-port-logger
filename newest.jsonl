@@ -192,3 +192,4 @@
 {"Date & Time": "2026-08-09T17:16:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Saikai Maru II", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-09T18:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spring Awoba", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-09T20:16:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Dona Bibi", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Changzhou Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-08-09T20:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 5 (D5)", "To": "Kendari, Sulawesi", "In port": "No"}
