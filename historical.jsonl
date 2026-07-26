@@ -13158,3 +13158,5 @@
 {"Date & Time": "2026-07-26T12:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hakuta", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Nansha Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-07-26T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Metis Challenger", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Ulsan", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-26T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Metis Horizon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 5 (K5)", "To": "Hay Point", "In port": "Yes"}
+{"Date & Time": "2026-07-26T16:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ocean Artemis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Zhoushan Pt", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-07-26T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Niihama", "In port": "Yes"}
