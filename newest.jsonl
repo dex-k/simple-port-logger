@@ -200,3 +200,5 @@
 {"Date & Time": "2026-08-11T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Asphalt Transporter", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Mayfield 7 (M7)", "To": "Bell Bay", "In port": "No"}
 {"Date & Time": "2026-08-11T03:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Navios Sphera", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Iyomishima", "In port": "No"}
 {"Date & Time": "2026-08-11T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 5 (D5)", "To": "Kendari, Sulawesi", "In port": "No"}
+{"Date & Time": "2026-08-11T03:53:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Arcadia Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 9 (K9)", "To": "", "In port": "No"}
+{"Date & Time": "2026-08-11T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Honest Sky", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
