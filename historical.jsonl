@@ -13190,3 +13190,4 @@
 {"Date & Time": "2026-07-29T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Reimei", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Busan", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-07-29T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Silver Etrema", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Mayfield 7 (M7)", "To": "Sydney", "In port": "Yes"}
 {"Date & Time": "2026-07-29T03:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hakutaka", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Kawasaki", "In port": "Yes"}
+{"Date & Time": "2026-07-29T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cape Med", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Fangcheng Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
