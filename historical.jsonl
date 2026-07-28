@@ -13186,3 +13186,4 @@
 {"Date & Time": "2026-07-28T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pan Bonita", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Singapore", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-07-28T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kharis Trinity", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Dyke 2 (D2)", "In port": "No"}
 {"Date & Time": "2026-07-28T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shun Tong", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-28T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Reihou", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 5 (K5)", "In port": "No"}
