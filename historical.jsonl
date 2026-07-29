@@ -13196,3 +13196,4 @@
 {"Date & Time": "2026-07-29T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cosmic Glory", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Singapore", "To": "Dyke 1 (D1)", "In port": "No"}
 {"Date & Time": "2026-07-29T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mg Earth", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Dyke 4 (D4)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-29T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Oshima Trader", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Shanghai Pt", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-07-29T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Reihou", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Hitachinaka", "In port": "Yes"}
