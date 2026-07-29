@@ -203,3 +203,4 @@
 {"Date & Time": "2026-08-13T01:02:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Amber", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-13T02:32:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tenso", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-13T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Chailease Blossom", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "West Basin 3 (W3)", "To": "Brisbane", "In port": "No"}
+{"Date & Time": "2026-08-13T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kimimachi", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 7 (K7)", "To": "", "In port": "No"}

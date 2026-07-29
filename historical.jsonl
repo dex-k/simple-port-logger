@@ -13201,3 +13201,4 @@
 {"Date & Time": "2026-07-30T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "First Angelus", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 5 (D5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-30T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bei Chen Star", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhanjiang Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-30T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kharis Trinity", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Niihama", "In port": "Yes"}
+{"Date & Time": "2026-07-30T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Soryu Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Takehara", "To": "Kooragang 8 (K8)", "In port": "No"}
