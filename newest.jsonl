@@ -205,3 +205,4 @@
 {"Date & Time": "2026-08-13T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Felicia K", "Vessel type": "General Cargo Ship", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Bell Bay", "In port": "No"}
 {"Date & Time": "2026-08-13T17:16:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Journey", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-13T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tientsin", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-08-13T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Skopelos I", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 6 (K6)", "To": "Tanjong Bin", "In port": "No"}
