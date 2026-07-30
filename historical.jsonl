@@ -13213,3 +13213,4 @@
 {"Date & Time": "2026-07-31T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Soryu Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Matsuura, Nagasaki", "In port": "Yes"}
 {"Date & Time": "2026-07-31T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sakura Dream", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Singapore", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-07-31T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sj Coral", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Hibiki-Nada", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-07-31T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Da Yu", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Tanjung Pelepas", "In port": "Yes"}
