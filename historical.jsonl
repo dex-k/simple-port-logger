@@ -13216,3 +13216,5 @@
 {"Date & Time": "2026-07-31T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Da Yu", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Tanjung Pelepas", "In port": "Yes"}
 {"Date & Time": "2026-07-31T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Angelic Breeze", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 3 (K3)", "To": "Port Kembla", "In port": "Yes"}
 {"Date & Time": "2026-07-31T12:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bei Chen Star", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 6 (K6)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-07-31T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ken Jyo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "East Basin 1 (E1)", "To": "Wellington", "In port": "Yes"}
+{"Date & Time": "2026-07-31T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Southgate", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Dyke 2 (D2)", "In port": "No"}
