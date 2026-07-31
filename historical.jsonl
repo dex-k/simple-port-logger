@@ -13224,3 +13224,4 @@
 {"Date & Time": "2026-07-31T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shen Hua 803", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-01T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sj Coral", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Yokohama", "In port": "Yes"}
 {"Date & Time": "2026-08-01T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Bonita", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
+{"Date & Time": "2026-08-01T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
