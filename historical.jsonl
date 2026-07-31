@@ -13226,3 +13226,4 @@
 {"Date & Time": "2026-08-01T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Bonita", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
 {"Date & Time": "2026-08-01T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-08-01T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pan Joy", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-01T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Velos Onyx", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 7 (K7)", "To": "Dongguan Pt", "In port": "Yes"}
