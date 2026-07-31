@@ -13222,3 +13222,4 @@
 {"Date & Time": "2026-07-31T20:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Zenith", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-07-31T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ateni", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tangshan Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-07-31T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shen Hua 803", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-01T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sj Coral", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Yokohama", "In port": "Yes"}
