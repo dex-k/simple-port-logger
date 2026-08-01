@@ -13236,3 +13236,4 @@
 {"Date & Time": "2026-08-01T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-01T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aom Gaia", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Mishima, Kawanoe", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-01T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-01T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sea Honesty", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 10 (K10)", "To": "Korea, South - Unknown", "In port": "Yes"}
