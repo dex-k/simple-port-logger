@@ -13242,3 +13242,4 @@
 {"Date & Time": "2026-08-02T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sdtr Faith", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Onahama", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-02T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ateni", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-02T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Victory", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-02T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Juniper", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Colombo", "To": "East Basin 1 (E1)", "In port": "No"}
