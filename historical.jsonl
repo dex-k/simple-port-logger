@@ -13238,3 +13238,5 @@
 {"Date & Time": "2026-08-01T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-01T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sea Honesty", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 10 (K10)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-01T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kypros Loyalty", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Nadahama", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-08-02T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sea Coen", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Korea, South - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-02T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sdtr Faith", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Onahama", "To": "Kooragang 9 (K9)", "In port": "No"}
