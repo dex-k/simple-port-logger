@@ -13247,3 +13247,5 @@
 {"Date & Time": "2026-08-02T09:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Chiba", "In port": "No"}
 {"Date & Time": "2026-08-02T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Joy", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-02T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kashima Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Oita", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-02T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Oriental Star", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 4 (K4)", "To": "", "In port": "No"}
+{"Date & Time": "2026-08-02T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Alice", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
