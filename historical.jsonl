@@ -13245,3 +13245,4 @@
 {"Date & Time": "2026-08-02T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Juniper", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Colombo", "To": "East Basin 1 (E1)", "In port": "No"}
 {"Date & Time": "2026-08-02T09:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 5 (D5)", "To": "Chiba", "In port": "No"}
 {"Date & Time": "2026-08-02T09:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Chiba", "In port": "No"}
+{"Date & Time": "2026-08-02T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Joy", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "Korea, South - Unknown", "In port": "Yes"}
