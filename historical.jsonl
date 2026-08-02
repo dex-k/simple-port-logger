@@ -13252,3 +13252,4 @@
 {"Date & Time": "2026-08-02T17:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Energy Glory", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-02T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sdtr Faith", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "Qinzhou Pt", "In port": "Yes"}
 {"Date & Time": "2026-08-02T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Chiba", "In port": "Yes"}
+{"Date & Time": "2026-08-02T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kypros Loyalty", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "Yes"}
