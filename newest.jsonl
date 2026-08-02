@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-02T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fj Dalia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Chiba", "In port": "Yes"}
 {"Date & Time": "2026-08-02T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kypros Loyalty", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "Yes"}
 {"Date & Time": "2026-08-03T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pakhoi", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
 {"Date & Time": "2026-08-03T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "United Sapphire", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Hitachinaka", "To": "Kooragang 4 (K4)", "In port": "No"}
