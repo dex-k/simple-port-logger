@@ -13271,3 +13271,6 @@
 {"Date & Time": "2026-08-03T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shinryo Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kaohsiung", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-04T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Dian 83", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhanjiang Pt", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-04T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Medi Positano", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
+{"Date & Time": "2026-08-04T10:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kashima Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Oita", "In port": "Yes"}
+{"Date & Time": "2026-08-04T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tampa", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-04T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Glory", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Singapore", "To": "Kooragang 9 (K9)", "In port": "No"}
