@@ -13275,3 +13275,6 @@
 {"Date & Time": "2026-08-04T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tampa", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-04T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Glory", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Singapore", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-04T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kn Blossom", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-04T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Unity N", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Rizhao Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-04T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shinryo Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Kinwan", "In port": "Yes"}
+{"Date & Time": "2026-08-04T18:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "Yes"}
