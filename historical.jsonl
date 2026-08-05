@@ -13297,3 +13297,4 @@
 {"Date & Time": "2026-08-06T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tampa", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "Mai-liao", "In port": "Yes"}
 {"Date & Time": "2026-08-06T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Akuna", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Kooragang 2 (K2)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-06T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amateras Harmony", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Geelong", "To": "Kooragang 2 (K2)", "In port": "No"}
+{"Date & Time": "2026-08-06T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "FPMC B Harmony", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Mai-liao", "To": "Kooragang 5 (K5)", "In port": "No"}
