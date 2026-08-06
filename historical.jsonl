@@ -13300,3 +13300,6 @@
 {"Date & Time": "2026-08-06T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "FPMC B Harmony", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Mai-liao", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-06T10:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amabie Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-06T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nord Draco", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 7 (K7)", "To": "Putian", "In port": "Yes"}
+{"Date & Time": "2026-08-06T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Utility", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-06T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "W-Smash", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Chiba", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-08-06T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Noble Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Reihoku", "To": "Kooragang 7 (K7)", "In port": "No"}
