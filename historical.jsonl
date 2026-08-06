@@ -13303,3 +13303,4 @@
 {"Date & Time": "2026-08-06T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Utility", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-06T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "W-Smash", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Chiba", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-08-06T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Noble Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Reihoku", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-08-06T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ricsea", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
