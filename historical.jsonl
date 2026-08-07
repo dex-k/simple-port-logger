@@ -13309,3 +13309,5 @@
 {"Date & Time": "2026-08-07T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Giacometti", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-07T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-07T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shi Dai 1", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Chaozhou Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-07T13:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "FPMC B Harmony", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "Mai-liao", "In port": "Yes"}
+{"Date & Time": "2026-08-07T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Challenger", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Oita", "To": "Kooragang 5 (K5)", "In port": "No"}
