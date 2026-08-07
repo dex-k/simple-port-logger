@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-08T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "W-Smash", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Yueqing", "In port": "Yes"}
 {"Date & Time": "2026-08-08T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Navios Felicity I", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Taichung", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-08-08T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shi Dai 1", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Xiamen", "In port": "Yes"}
 {"Date & Time": "2026-08-08T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Msxt Emily", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Wakayama", "To": "Kooragang 6 (K6)", "In port": "No"}
