@@ -207,3 +207,4 @@
 {"Date & Time": "2026-08-21T19:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Medi Cajeta", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Ube", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-22T02:12:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mystic", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Chinese Taipei - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-22T03:42:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jin Hai Qian", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Nantong Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-08-22T05:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cape Rainbow", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Gladstone", "In port": "No"}
