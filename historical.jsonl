@@ -13322,3 +13322,4 @@
 {"Date & Time": "2026-08-08T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Atlantic Samurai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-08T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Power", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 9 (K9)", "To": "Misumi, Kumamoto", "In port": "Yes"}
 {"Date & Time": "2026-08-08T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "W-Smash", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Yueqing", "In port": "Yes"}
+{"Date & Time": "2026-08-08T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Navios Felicity I", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Taichung", "To": "Kooragang 4 (K4)", "In port": "No"}
