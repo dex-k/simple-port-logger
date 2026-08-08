@@ -204,3 +204,4 @@
 {"Date & Time": "2026-08-23T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-08-23T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tonquipearl", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Kobe", "In port": "No"}
 {"Date & Time": "2026-08-23T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Medi Cajeta", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "No"}
+{"Date & Time": "2026-08-23T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Striggla", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
