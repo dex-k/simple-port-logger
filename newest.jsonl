@@ -205,3 +205,4 @@
 {"Date & Time": "2026-08-22T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Victory", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Panjin", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-22T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Golden Lion", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 4 (D4)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-22T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Giacometti", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
+{"Date & Time": "2026-08-23T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
