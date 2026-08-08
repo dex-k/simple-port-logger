@@ -13336,3 +13336,4 @@
 {"Date & Time": "2026-08-09T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-09T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-09T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ultra Passion", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 5 (D5)", "To": "Kendari, Sulawesi", "In port": "Yes"}
+{"Date & Time": "2026-08-09T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spring Awoba", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 9 (K9)", "To": "Japan - Unknown", "In port": "Yes"}
