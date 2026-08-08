@@ -13327,3 +13327,4 @@
 {"Date & Time": "2026-08-08T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Msxt Emily", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Wakayama", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-08T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Awoba", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Chiba", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-08T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Carpe Diem", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Klang (Pelabuhan Klang)", "To": "West Basin 3 (W3)", "In port": "No"}
+{"Date & Time": "2026-08-08T14:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Asphalt Transporter", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Kaohsiung", "To": "Mayfield 7 (M7)", "In port": "No"}
