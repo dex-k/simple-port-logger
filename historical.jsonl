@@ -13342,3 +13342,4 @@
 {"Date & Time": "2026-08-09T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Navios Sphera", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Nantong Pt", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-09T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Msxt Emily", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Tonda", "In port": "Yes"}
 {"Date & Time": "2026-08-09T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Socrates Graecia", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-09T16:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Challenger", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Oita", "In port": "Yes"}
