@@ -13350,3 +13350,4 @@
 {"Date & Time": "2026-08-09T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Brisbane", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-09T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Queen", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 8 (K8)", "To": "Sakata", "In port": "Yes"}
 {"Date & Time": "2026-08-09T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Navios Felicity I", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-09T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Primrose Atlantic", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Nadahama", "To": "Kooragang 4 (K4)", "In port": "No"}
