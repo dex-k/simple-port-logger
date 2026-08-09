@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-10T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Saikai Maru II", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Matsuura, Nagasaki", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-10T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Medi Serapo", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-10T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Medi Positano", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-10T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Falbala", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Fukuyama, Hiroshima", "To": "Kooragang 7 (K7)", "In port": "No"}
