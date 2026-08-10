@@ -13360,3 +13360,4 @@
 {"Date & Time": "2026-08-10T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 5 (D5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-10T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Saikai Maru II", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-10T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Asphalt Transporter", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Mayfield 7 (M7)", "To": "Bell Bay", "In port": "Yes"}
+{"Date & Time": "2026-08-11T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Iris Wave", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Niihama", "To": "Kooragang 7 (K7)", "In port": "No"}
