@@ -13363,3 +13363,4 @@
 {"Date & Time": "2026-08-11T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Iris Wave", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Niihama", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-11T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Saikai Maru II", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-11T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Dona Bibi", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-11T07:06:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ocean Shine", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
