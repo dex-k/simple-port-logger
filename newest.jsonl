@@ -196,3 +196,5 @@
 {"Date & Time": "2026-08-25T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kanda Logger", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-25T01:54:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Dl Dahlia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-25T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cemtex Renaissance", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 4 (K4)", "To": "Unknown", "In port": "No"}
+{"Date & Time": "2026-08-25T03:24:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gns Harvest", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-08-25T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tai Chang", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dangjin", "To": "Dyke 4 (D4)", "In port": "No"}
