@@ -13380,3 +13380,5 @@
 {"Date & Time": "2026-08-11T23:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Falbala", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Fukuyama, Hiroshima", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-08-12T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Navios Sphera", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Iyomishima", "In port": "Yes"}
 {"Date & Time": "2026-08-12T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Akira", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-08-12T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pakhoi", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Gladstone", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-08-12T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Carpe Diem", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "West Basin 3 (W3)", "To": "Mackay", "In port": "Yes"}
