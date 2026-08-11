@@ -195,7 +195,6 @@
 {"Date & Time": "2026-08-24T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Newcastle", "In port": "No"}
 {"Date & Time": "2026-08-24T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-25T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kanda Logger", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "No"}
-{"Date & Time": "2026-08-25T01:54:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Dl Dahlia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-25T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tai Chang", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dangjin", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-25T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "New Promise", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-25T08:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Obelisk", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 5 (K5)", "In port": "No"}
@@ -206,3 +205,4 @@
 {"Date & Time": "2026-08-25T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maizuru Bishamon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 4 (K4)", "To": "Maizuru", "In port": "No"}
 {"Date & Time": "2026-08-25T18:36:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gns Harvest", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-25T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tonquipearl", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kobe", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-25T21:47:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Dl Dahlia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 10 (K10)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
