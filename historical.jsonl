@@ -13387,3 +13387,4 @@
 {"Date & Time": "2026-08-12T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-12T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Chailease Blossom", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Zhoushan Pt", "To": "West Basin 3 (W3)", "In port": "No"}
 {"Date & Time": "2026-08-12T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gns Honour", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 8 (K8)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-12T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Dynamic", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Busan", "To": "Kooragang 8 (K8)", "In port": "No"}
