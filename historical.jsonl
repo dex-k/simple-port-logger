@@ -13375,3 +13375,5 @@
 {"Date & Time": "2026-08-11T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Double Delight", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Tieshan", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-11T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Moning", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-11T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Golden Sky", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Botany Bay", "To": "Kooragang 2 (K2)", "In port": "No"}
+{"Date & Time": "2026-08-11T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Primrose Atlantic", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "Yes"}
+{"Date & Time": "2026-08-11T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shen Hua 811", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
