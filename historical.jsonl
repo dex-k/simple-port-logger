@@ -13396,3 +13396,4 @@
 {"Date & Time": "2026-08-12T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
 {"Date & Time": "2026-08-12T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABG", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
 {"Date & Time": "2026-08-12T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Legend", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Ishinomaki", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-08-12T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bbg Journey", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Xiuyu Pt", "To": "Kooragang 10 (K10)", "In port": "No"}
