@@ -13402,3 +13402,4 @@
 {"Date & Time": "2026-08-13T05:57:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shen Hua 811", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-13T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Double Delight", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 9 (K9)", "To": "Ube", "In port": "Yes"}
 {"Date & Time": "2026-08-13T07:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Juno Horizon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 5 (K5)", "To": "Muroran", "In port": "Yes"}
+{"Date & Time": "2026-08-13T08:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kimimachi", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "Yes"}
