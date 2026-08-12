@@ -13392,3 +13392,4 @@
 {"Date & Time": "2026-08-12T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Iris Wave", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 7 (K7)", "To": "Niihama", "In port": "Yes"}
 {"Date & Time": "2026-08-12T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Euripides Graecia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Songxia Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-12T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Golden Sky", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Brisbane", "In port": "Yes"}
+{"Date & Time": "2026-08-12T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "FPMC B 106", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "Taichung", "In port": "Yes"}
