@@ -193,3 +193,4 @@
 {"Date & Time": "2026-08-26T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Heng May", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Guangzhou", "In port": "No"}
 {"Date & Time": "2026-08-26T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kurotakisan Maru III", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Sodegaura", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-26T19:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-08-26T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Purple Rain", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
