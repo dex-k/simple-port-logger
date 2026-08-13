@@ -13417,3 +13417,4 @@
 {"Date & Time": "2026-08-14T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Falbala", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Toyokawa", "In port": "Yes"}
 {"Date & Time": "2026-08-14T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-14T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
+{"Date & Time": "2026-08-14T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tai Kindness", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
