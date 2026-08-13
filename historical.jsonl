@@ -13410,3 +13410,5 @@
 {"Date & Time": "2026-08-13T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Journey", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "Malaysia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-13T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Euripides Graecia", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-13T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Brilliant Discovery", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Onahama", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-08-13T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Felicia K", "Vessel type": "General Cargo Ship", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-08-13T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pyxis Karteria", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Mayfield 7 (M7)", "To": "Singapore", "In port": "Yes"}
