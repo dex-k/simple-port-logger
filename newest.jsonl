@@ -18,7 +18,7 @@
 {"Date & Time": "2026-08-15T06:38:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Achilles", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-15T12:13:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Green K-Max 5", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 9 (K9)", "To": "Kaohsiung", "In port": "No"}
 {"Date & Time": "2026-08-15T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tabit", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Ulsan", "To": "Kooragang 3 (K3)", "In port": "No"}
-{"Date & Time": "2026-08-15T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Kindness", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 4 (K4)", "To": "Unknown", "In port": "No"}
+{"Date & Time": "2026-08-15T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Kindness", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 4 (K4)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-15T16:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Honest Sky", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Matsuura, Nagasaki", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-08-15T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shi Dai 1", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Zhuhai Pt", "In port": "No"}
 {"Date & Time": "2026-08-15T19:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cpt Andreadis", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
@@ -194,3 +194,4 @@
 {"Date & Time": "2026-08-28T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-08-28T03:29:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Alam Kuasa", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Singapore", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-28T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Skopelos I", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Tanjong Bin", "In port": "No"}
+{"Date & Time": "2026-08-28T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ototachibana", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Huanghua", "To": "Kooragang 9 (K9)", "In port": "No"}
