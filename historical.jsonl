@@ -13412,3 +13412,4 @@
 {"Date & Time": "2026-08-13T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Brilliant Discovery", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Onahama", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-13T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Felicia K", "Vessel type": "General Cargo Ship", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
 {"Date & Time": "2026-08-13T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pyxis Karteria", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Mayfield 7 (M7)", "To": "Singapore", "In port": "Yes"}
+{"Date & Time": "2026-08-14T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jastella", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Bahudopi", "To": "Mayfield 7 (M7)", "In port": "No"}
