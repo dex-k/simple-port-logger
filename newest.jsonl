@@ -188,7 +188,6 @@
 {"Date & Time": "2026-08-27T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pacific Opal", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-27T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Dian 85", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Hong Kong", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-27T05:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kaohsiung", "To": "Kooragang 8 (K8)", "In port": "No"}
-{"Date & Time": "2026-08-27T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pacific Opal", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Noshiro", "In port": "No"}
 {"Date & Time": "2026-08-27T07:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Obelisk", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-27T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amphitrite", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dangjin", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-27T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Western Stabaek", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "No"}
@@ -197,3 +196,5 @@
 {"Date & Time": "2026-08-27T14:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Progress 3", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dongguan Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-27T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cape Sasanqua", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Fuzhou", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-27T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "YM Compass", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Mejillones", "In port": "No"}
+{"Date & Time": "2026-08-28T00:06:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pacific Opal", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Noshiro", "In port": "No"}
+{"Date & Time": "2026-08-28T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Magic Jupiter", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
