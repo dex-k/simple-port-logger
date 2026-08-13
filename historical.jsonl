@@ -13414,3 +13414,4 @@
 {"Date & Time": "2026-08-13T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pyxis Karteria", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Mayfield 7 (M7)", "To": "Singapore", "In port": "Yes"}
 {"Date & Time": "2026-08-14T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jastella", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Bahudopi", "To": "Mayfield 7 (M7)", "In port": "No"}
 {"Date & Time": "2026-08-14T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spring Legend", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Dyke 5 (D5)", "To": "Tagonoura", "In port": "Yes"}
+{"Date & Time": "2026-08-14T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Falbala", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Toyokawa", "In port": "Yes"}
