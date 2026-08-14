@@ -13426,3 +13426,4 @@
 {"Date & Time": "2026-08-14T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
 {"Date & Time": "2026-08-14T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Progress Trader", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Chiba", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-14T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Green K-Max 5", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dongjiangkou", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-08-14T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Adonis", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "Korea, South - Unknown", "In port": "Yes"}
