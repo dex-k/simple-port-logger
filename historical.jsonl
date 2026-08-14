@@ -13429,3 +13429,4 @@
 {"Date & Time": "2026-08-14T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Adonis", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-15T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Alpha Progress", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 4 (D4)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-15T01:31:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Guo Jia Neng Yuan 822", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-08-15T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Felicia K", "Vessel type": "General Cargo Ship", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Bell Bay", "In port": "Yes"}
