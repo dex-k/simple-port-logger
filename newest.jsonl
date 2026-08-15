@@ -197,3 +197,4 @@
 {"Date & Time": "2026-08-29T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wisteria Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Iwakuni", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-29T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shin Yahagi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-08-29T22:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-08-30T00:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cb2", "Vessel type": "General Cargo Barge, non propelled", "Agent": "ABS", "From": "Eglo (EGLO)", "To": "Sydney", "In port": "Yes"}
