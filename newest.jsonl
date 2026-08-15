@@ -196,3 +196,4 @@
 {"Date & Time": "2026-08-30T03:04:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Amphitrite", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "Malaysia - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-30T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Guo Jia Neng Yuan 821", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Tokuyama", "In port": "No"}
 {"Date & Time": "2026-08-30T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kaiyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 4 (D4)", "To": "", "In port": "No"}
+{"Date & Time": "2026-08-30T04:34:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leading Bravery", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Yeosu", "To": "Kooragang 10 (K10)", "In port": "No"}
