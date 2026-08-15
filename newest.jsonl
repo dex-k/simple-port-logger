@@ -196,3 +196,4 @@
 {"Date & Time": "2026-08-29T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Climate Respect", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Tokuyama", "In port": "No"}
 {"Date & Time": "2026-08-29T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xanadu", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-29T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wisteria Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Iwakuni", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-08-29T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shin Yahagi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 4 (K4)", "In port": "No"}
