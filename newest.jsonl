@@ -1,6 +1,3 @@
-{"Date & Time": "2026-08-16T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "No"}
-{"Date & Time": "2026-08-16T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
-{"Date & Time": "2026-08-16T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-16T08:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Seiyu", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Kobe", "In port": "Yes"}
 {"Date & Time": "2026-08-16T09:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Amber", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Tachibana", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-16T10:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Progress Trader", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Kaohsiung", "In port": "Yes"}
@@ -197,3 +194,5 @@
 {"Date & Time": "2026-08-29T22:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-30T00:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cb2", "Vessel type": "General Cargo Barge, non propelled", "Agent": "ABS", "From": "Eglo (EGLO)", "To": "Sydney", "In port": "Yes"}
 {"Date & Time": "2026-08-30T03:04:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Amphitrite", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "Malaysia - Unknown", "In port": "No"}
+{"Date & Time": "2026-08-30T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Guo Jia Neng Yuan 821", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Tokuyama", "In port": "No"}
+{"Date & Time": "2026-08-30T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kaiyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 4 (D4)", "To": "", "In port": "No"}
