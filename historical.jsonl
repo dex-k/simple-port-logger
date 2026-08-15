@@ -13433,3 +13433,4 @@
 {"Date & Time": "2026-08-15T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tsukuba Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-15T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Brilliant Discovery", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 7 (K7)", "To": "Matsuura, Nagasaki", "In port": "Yes"}
 {"Date & Time": "2026-08-15T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Seiyu", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Ishikawa", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-08-15T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tabit", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Ulsan", "To": "Kooragang 3 (K3)", "In port": "No"}
