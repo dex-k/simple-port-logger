@@ -13439,3 +13439,4 @@
 {"Date & Time": "2026-08-15T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Achilles", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-15T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shi Dai 1", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Zhuhai Pt", "In port": "Yes"}
 {"Date & Time": "2026-08-15T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cpt Andreadis", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-15T19:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Honest Sky", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Matsuura, Nagasaki", "To": "Kooragang 4 (K4)", "In port": "No"}
