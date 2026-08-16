@@ -13460,3 +13460,4 @@
 {"Date & Time": "2026-08-16T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tsukuba Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-16T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kagura", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kudamatsu", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-17T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jozen", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Busan", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-08-17T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cpt Andreadis", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 6 (K6)", "To": "Unknown", "In port": "Yes"}
