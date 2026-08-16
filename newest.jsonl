@@ -157,7 +157,6 @@
 {"Date & Time": "2026-08-27T19:50:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gns Harvest", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Gwangyang", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-27T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Chang", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 6 (K6)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-08-28T00:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Progress 3", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dongguan Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
-{"Date & Time": "2026-08-28T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Magic Jupiter", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-28T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Brio Faith", "Vessel type": "General Cargo Ship", "Agent": "AWS", "From": "Bluff", "To": "West Basin 4 (W4)", "In port": "No"}
 {"Date & Time": "2026-08-28T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-08-28T06:21:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Port Dickson", "In port": "No"}
@@ -195,3 +194,4 @@
 {"Date & Time": "2026-08-30T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-30T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Wisteria Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Yokohama", "In port": "No"}
 {"Date & Time": "2026-08-30T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Strategic Harmony", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-08-30T19:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Magic Jupiter", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Mizushima", "To": "Kooragang 7 (K7)", "In port": "No"}
