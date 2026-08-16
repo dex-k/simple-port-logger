@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-16T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nord Taipei", "Vessel type": "Open Hatch Cargo Ship", "Agent": "MON", "From": "Hongai", "To": "East Basin 1 (E1)", "In port": "No"}
 {"Date & Time": "2026-08-16T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Progress Trader", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Kaohsiung", "In port": "Yes"}
 {"Date & Time": "2026-08-16T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sea Force", "Vessel type": "Tug", "Agent": "ABG", "From": "Newcastle", "To": "Carrington Wharf (CAR)", "In port": "No"}
 {"Date & Time": "2026-08-16T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tsukuba Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
@@ -195,3 +194,4 @@
 {"Date & Time": "2026-08-30T09:35:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cl Beijing", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Changzhou Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-30T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-30T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Wisteria Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Yokohama", "In port": "No"}
+{"Date & Time": "2026-08-30T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Strategic Harmony", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 3 (K3)", "In port": "No"}
