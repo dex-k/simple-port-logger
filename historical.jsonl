@@ -13466,3 +13466,4 @@
 {"Date & Time": "2026-08-17T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-17T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-17T07:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Great Amber", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Zhanjiang Pt", "In port": "Yes"}
+{"Date & Time": "2026-08-17T09:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tenso", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
