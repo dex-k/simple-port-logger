@@ -13458,3 +13458,4 @@
 {"Date & Time": "2026-08-16T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Progress Trader", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Kaohsiung", "In port": "Yes"}
 {"Date & Time": "2026-08-16T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sea Force", "Vessel type": "Tug", "Agent": "ABG", "From": "Newcastle", "To": "Carrington Wharf (CAR)", "In port": "No"}
 {"Date & Time": "2026-08-16T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tsukuba Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-16T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kagura", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kudamatsu", "To": "Kooragang 7 (K7)", "In port": "No"}
