@@ -13453,3 +13453,4 @@
 {"Date & Time": "2026-08-16T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tientsin", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
 {"Date & Time": "2026-08-16T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
 {"Date & Time": "2026-08-16T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "NBB HOPE", "Vessel type": "General Cargo Ship", "Agent": "ABG", "From": "Newcastle", "To": "Custom Transportable Buildings Wharf (CTB)", "In port": "No"}
+{"Date & Time": "2026-08-16T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Juniper", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "East Basin 1 (E1)", "To": "Australia - Unknown", "In port": "Yes"}

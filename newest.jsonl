@@ -194,3 +194,4 @@
 {"Date & Time": "2026-08-30T06:12:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leading Bravery", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Yeosu", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-30T08:05:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ototachibana", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 8 (K8)", "To": "Mab Tapud", "In port": "No"}
 {"Date & Time": "2026-08-30T09:35:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cl Beijing", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Changzhou Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-08-30T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
