@@ -13463,3 +13463,4 @@
 {"Date & Time": "2026-08-17T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cpt Andreadis", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 6 (K6)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-17T03:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Etg Aquarius", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Japan - Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-17T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Star Elizabeth", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Nadahama", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-08-17T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
