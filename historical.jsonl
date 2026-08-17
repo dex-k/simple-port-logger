@@ -13473,3 +13473,4 @@
 {"Date & Time": "2026-08-17T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Taipower Prosperity V", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kaohsiung", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-08-17T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sea Force", "Vessel type": "Tug", "Agent": "ABG", "From": "Carrington Wharf (CAR)", "To": "Brisbane", "In port": "Yes"}
 {"Date & Time": "2026-08-17T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bhagwan Challenge", "Vessel type": "Other Activities, Inland Waterways", "Agent": "ABG", "From": "Carrington Wharf (CAR)", "To": "Brisbane", "In port": "Yes"}
+{"Date & Time": "2026-08-17T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bh Fortune", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
