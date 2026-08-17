@@ -13469,3 +13469,4 @@
 {"Date & Time": "2026-08-17T09:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tenso", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-17T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Flamingo", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-08-17T12:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-17T14:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Honest Sky", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Matsuura, Nagasaki", "In port": "Yes"}
