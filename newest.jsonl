@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-18T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Seacon Nagoya", "Vessel type": "General Cargo Ship", "Agent": "SGM", "From": "Port Alma", "To": "Mayfield 4 (M4)", "In port": "No"}
 {"Date & Time": "2026-08-18T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pis Madura", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Brisbane", "To": "Mayfield 7 (M7)", "In port": "No"}
 {"Date & Time": "2026-08-18T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Flamingo", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
 {"Date & Time": "2026-08-18T10:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wincanton", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
