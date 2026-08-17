@@ -13474,3 +13474,4 @@
 {"Date & Time": "2026-08-17T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sea Force", "Vessel type": "Tug", "Agent": "ABG", "From": "Carrington Wharf (CAR)", "To": "Brisbane", "In port": "Yes"}
 {"Date & Time": "2026-08-17T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bhagwan Challenge", "Vessel type": "Other Activities, Inland Waterways", "Agent": "ABG", "From": "Carrington Wharf (CAR)", "To": "Brisbane", "In port": "Yes"}
 {"Date & Time": "2026-08-17T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bh Fortune", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-17T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Star Rotterdam", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Nanshan", "In port": "Yes"}
