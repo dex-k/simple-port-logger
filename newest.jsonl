@@ -189,3 +189,4 @@
 {"Date & Time": "2026-08-31T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 7 (K7)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-01T01:54:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nisea", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 9 (K9)", "To": "Onahama", "In port": "No"}
 {"Date & Time": "2026-09-01T03:24:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maritime King", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-09-01T05:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Shining", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Xinsha", "To": "Kooragang 7 (K7)", "In port": "No"}
