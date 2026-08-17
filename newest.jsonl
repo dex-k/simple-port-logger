@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-18T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Wealth", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhoushan Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-18T03:35:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Akira", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-18T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Akira", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-18T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Seacon Nagoya", "Vessel type": "General Cargo Ship", "Agent": "SGM", "From": "Port Alma", "To": "Mayfield 4 (M4)", "In port": "No"}
