@@ -13487,3 +13487,4 @@
 {"Date & Time": "2026-08-18T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Flamingo", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
 {"Date & Time": "2026-08-18T10:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wincanton", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-08-18T11:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yangze 905", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "Rizhao Pt", "In port": "Yes"}
+{"Date & Time": "2026-08-18T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tenso", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Kinuura", "In port": "Yes"}
