@@ -195,3 +195,4 @@
 {"Date & Time": "2026-09-01T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hakuta", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-01T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Xing Huan Hai", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Dalian Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-02T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Lin Miarak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "No"}
+{"Date & Time": "2026-09-02T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Xing Shun Hai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Zhangjiagang", "To": "Kooragang 4 (K4)", "In port": "No"}
