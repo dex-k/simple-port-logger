@@ -13490,3 +13490,4 @@
 {"Date & Time": "2026-08-18T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tenso", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Kinuura", "In port": "Yes"}
 {"Date & Time": "2026-08-18T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pegasus Island", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kawasaki", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-18T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Etg Aquarius", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 6 (K6)", "To": "Hong Kong", "In port": "Yes"}
+{"Date & Time": "2026-08-18T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arethousa", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Dyke 4 (D4)", "In port": "No"}
