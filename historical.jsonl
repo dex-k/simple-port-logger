@@ -13494,3 +13494,4 @@
 {"Date & Time": "2026-08-18T18:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Majesty", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kaohsiung", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-08-18T19:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Star Elizabeth", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Kakogawa", "In port": "Yes"}
 {"Date & Time": "2026-08-18T20:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tai Keenness", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Batangas/Luzon", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-08-18T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bbg Yulin", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Jingtang Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
