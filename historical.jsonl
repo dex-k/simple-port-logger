@@ -13513,3 +13513,4 @@
 {"Date & Time": "2026-08-19T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "BM2101", "Vessel type": "General Cargo Barge, non propelled", "Agent": "ABG", "From": "Eglo (EGLO)", "To": "Carrington Wharf (CAR)", "In port": "Yes"}
 {"Date & Time": "2026-08-19T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Narooma", "Vessel type": "Tug", "Agent": "ABG", "From": "Eglo (EGLO)", "To": "Carrington Wharf (CAR)", "In port": "Yes"}
 {"Date & Time": "2026-08-19T16:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Chailease Blossom", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "West Basin 3 (W3)", "To": "Brisbane", "In port": "Yes"}
+{"Date & Time": "2026-08-19T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Dl Dahlia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Indonesia - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
