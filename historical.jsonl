@@ -13518,3 +13518,4 @@
 {"Date & Time": "2026-08-20T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ht Saipan", "Vessel type": "Tug", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "No"}
 {"Date & Time": "2026-08-20T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Yulin", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 6 (K6)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-20T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Medi Cajeta", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Ube", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-08-20T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pis Madura", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Mayfield 7 (M7)", "To": "Yeosu", "In port": "Yes"}
