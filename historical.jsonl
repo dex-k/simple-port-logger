@@ -13502,3 +13502,4 @@
 {"Date & Time": "2026-08-19T08:56:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Amami", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-19T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Taipower Prosperity V", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "Kaohsiung", "In port": "Yes"}
 {"Date & Time": "2026-08-19T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spring Wealth", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "Taichung", "In port": "Yes"}
+{"Date & Time": "2026-08-19T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pegasus Island", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Matsuura, Nagasaki", "In port": "Yes"}
