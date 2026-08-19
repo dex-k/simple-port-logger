@@ -198,3 +198,4 @@
 {"Date & Time": "2026-09-02T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Morning Glory", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-02T20:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xing Huan Hai", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-03T00:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 7 (K7)", "To": "Xiamen", "In port": "No"}
+{"Date & Time": "2026-09-03T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Medi Domus Daini", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Kooragang 7 (K7)", "In port": "No"}
