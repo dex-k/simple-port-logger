@@ -196,3 +196,4 @@
 {"Date & Time": "2026-09-02T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-02T11:38:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Akatsuki", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-02T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Adelaide", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-09-02T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Km Mt. Jade", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Panjin", "To": "Kooragang 4 (K4)", "In port": "No"}
