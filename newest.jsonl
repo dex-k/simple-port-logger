@@ -180,7 +180,6 @@
 {"Date & Time": "2026-09-02T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-02T11:38:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "W Trader", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-02T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xing Shun Hai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Kobe", "In port": "No"}
-{"Date & Time": "2026-09-02T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Adelaide", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-02T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Astro Sirius", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-02T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Morning Glory", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Newcastle", "In port": "No"}
 {"Date & Time": "2026-09-02T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 4 (K4)", "To": "Xiamen", "In port": "No"}
@@ -197,3 +196,4 @@
 {"Date & Time": "2026-09-03T18:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Triton", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-03T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Strategic Harmony", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-03T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sasebo Eco", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
+{"Date & Time": "2026-09-03T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Adelaide", "To": "Dyke 4 (D4)", "In port": "No"}
