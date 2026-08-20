@@ -197,3 +197,4 @@
 {"Date & Time": "2026-09-03T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Adelaide", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-09-04T00:49:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "W Trader", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 9 (K9)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-04T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Astro Sirius", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
+{"Date & Time": "2026-09-04T02:19:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tachibana", "To": "Kooragang 8 (K8)", "In port": "No"}
