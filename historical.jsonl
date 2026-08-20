@@ -13524,3 +13524,4 @@
 {"Date & Time": "2026-08-20T12:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Flagship", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-20T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hong An", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-20T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ing May", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-20T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nord Taipei", "Vessel type": "Open Hatch Cargo Ship", "Agent": "MON", "From": "East Basin 1 (E1)", "To": "Newcastle", "In port": "Yes"}
