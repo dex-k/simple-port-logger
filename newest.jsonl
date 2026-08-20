@@ -198,3 +198,4 @@
 {"Date & Time": "2026-09-04T02:19:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tachibana", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-04T02:50:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Akatsuki", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 10 (K10)", "To": "Haramachi", "In port": "No"}
 {"Date & Time": "2026-09-04T03:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Katagalan Wisdom", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-09-04T05:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "First Angelus", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 7 (K7)", "To": "", "In port": "No"}
