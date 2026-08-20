@@ -13526,3 +13526,4 @@
 {"Date & Time": "2026-08-20T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ing May", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-20T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nord Taipei", "Vessel type": "Open Hatch Cargo Ship", "Agent": "MON", "From": "East Basin 1 (E1)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-20T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sol Explorer", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Hekinan", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-08-21T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Arethousa", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "Yes"}

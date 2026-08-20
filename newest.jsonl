@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-21T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Arethousa", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-21T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Akira", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Hong Kong", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-21T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Keenness", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 5 (D5)", "To": "Kimitsu", "In port": "Yes"}
 {"Date & Time": "2026-08-21T04:24:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Vittoria", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 8 (K8)", "To": "Port Dickson", "In port": "Yes"}
