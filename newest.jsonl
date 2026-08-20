@@ -196,3 +196,4 @@
 {"Date & Time": "2026-09-03T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "First Angelus", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-09-03T18:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Triton", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-03T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Strategic Harmony", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "No"}
+{"Date & Time": "2026-09-03T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sasebo Eco", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 6 (K6)", "To": "", "In port": "No"}
