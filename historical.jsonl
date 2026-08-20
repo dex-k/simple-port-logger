@@ -13533,3 +13533,4 @@
 {"Date & Time": "2026-08-21T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Double Fantasy", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Busan", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-08-21T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Wonga", "Vessel type": "Tug", "Agent": "ABG", "From": "Custom Transportable Buildings Wharf (CTB)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-21T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Lowlands Infinity", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-08-21T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Arethousa", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "Yes"}
