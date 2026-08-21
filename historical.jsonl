@@ -13545,3 +13545,4 @@
 {"Date & Time": "2026-08-21T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Singapore", "To": "Dyke 1 (D1)", "In port": "No"}
 {"Date & Time": "2026-08-21T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Newcastle", "To": "Dyke 1 (D1)", "In port": "No"}
 {"Date & Time": "2026-08-21T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Asphalt Transporter", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Mayfield 7 (M7)", "To": "Gladstone", "In port": "Yes"}
+{"Date & Time": "2026-08-22T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Seacon Nola", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
