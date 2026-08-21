@@ -13540,3 +13540,4 @@
 {"Date & Time": "2026-08-21T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Dl Dahlia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 10 (K10)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-21T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mystic", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Port Kembla", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-21T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Santiago Basin", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-08-21T19:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aal Shanghai", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "Port Adelaide", "To": "East Basin 1 (E1)", "In port": "No"}
