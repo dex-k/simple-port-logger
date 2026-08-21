@@ -196,3 +196,4 @@
 {"Date & Time": "2026-09-04T12:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "World Seafarer Md", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-04T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Km Mt. Jade", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Taichung", "In port": "No"}
 {"Date & Time": "2026-09-04T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sasebo Eco", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-09-04T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Epictetus", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Boryeong", "To": "Kooragang 4 (K4)", "In port": "No"}
