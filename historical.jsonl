@@ -13549,3 +13549,4 @@
 {"Date & Time": "2026-08-22T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Juniper", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Colombo", "To": "West Basin 3 (W3)", "In port": "No"}
 {"Date & Time": "2026-08-22T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hong An", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-22T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sol Explorer", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "Hitachinaka", "In port": "Yes"}
+{"Date & Time": "2026-08-22T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Lowlands Infinity", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 9 (K9)", "To": "Unknown", "In port": "Yes"}
