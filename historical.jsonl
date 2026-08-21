@@ -13543,3 +13543,5 @@
 {"Date & Time": "2026-08-21T19:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aal Shanghai", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "Port Adelaide", "To": "East Basin 1 (E1)", "In port": "No"}
 {"Date & Time": "2026-08-21T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Elegant Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Reihoku", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-21T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Singapore", "To": "Dyke 1 (D1)", "In port": "No"}
+{"Date & Time": "2026-08-21T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Newcastle", "To": "Dyke 1 (D1)", "In port": "No"}
+{"Date & Time": "2026-08-21T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Asphalt Transporter", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Mayfield 7 (M7)", "To": "Gladstone", "In port": "Yes"}
