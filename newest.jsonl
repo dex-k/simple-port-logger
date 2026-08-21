@@ -196,3 +196,4 @@
 {"Date & Time": "2026-09-04T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Epictetus", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Boryeong", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-04T19:19:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "Tachibana", "In port": "No"}
 {"Date & Time": "2026-09-04T19:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dyke 4 (D4)", "To": "Noumea", "In port": "No"}
+{"Date & Time": "2026-09-04T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Chailease Cherish", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Dyke 4 (D4)", "In port": "No"}
