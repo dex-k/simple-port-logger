@@ -13565,3 +13565,4 @@
 {"Date & Time": "2026-08-23T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Golden Lion", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kobe", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-23T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Santiago Basin", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-23T03:29:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mystic", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Chinese Taipei - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-23T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kurotakisan Maru III", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Sodegaura", "To": "Kooragang 6 (K6)", "In port": "No"}
