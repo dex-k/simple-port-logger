@@ -186,3 +186,4 @@
 {"Date & Time": "2026-09-05T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Morning Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Tokuyama", "In port": "No"}
 {"Date & Time": "2026-09-05T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shen Hua 801", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-05T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Royal Bliss", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-09-06T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Tieshan", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 5 (D5)", "To": "Xiamen", "In port": "No"}
