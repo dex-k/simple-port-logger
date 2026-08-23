@@ -183,3 +183,4 @@
 {"Date & Time": "2026-09-07T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mg Earth", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-09-07T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bulk Harvest", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-07T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tachibana", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-09-07T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "FPMC B Guard", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 5 (K5)", "In port": "No"}
