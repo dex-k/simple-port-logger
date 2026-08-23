@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-23T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Aal Shanghai", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "East Basin 1 (E1)", "To": "Mayfield 4 (M4)", "In port": "Yes"}
 {"Date & Time": "2026-08-23T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maizuru Bishamon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-23T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Seacon Nagoya", "Vessel type": "General Cargo Ship", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-23T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kanda Logger", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
