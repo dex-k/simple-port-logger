@@ -13577,3 +13577,4 @@
 {"Date & Time": "2026-08-24T04:24:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "First Albatross", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Kashima, Saga", "In port": "Yes"}
 {"Date & Time": "2026-08-24T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cape Rainbow", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Oita", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-08-24T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hl Port Hedland", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Newcastle", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-24T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aal Shanghai", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "Mayfield 4 (M4)", "To": "Brisbane", "In port": "Yes"}
