@@ -13583,3 +13583,4 @@
 {"Date & Time": "2026-08-24T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kurotakisan Maru III", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Tachibana", "In port": "Yes"}
 {"Date & Time": "2026-08-24T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cemtex Renaissance", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-08-24T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Golden Lion", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 5 (D5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-08-24T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Boa", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Port Kembla", "To": "Dyke 5 (D5)", "In port": "No"}
