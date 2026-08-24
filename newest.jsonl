@@ -182,3 +182,4 @@
 {"Date & Time": "2026-09-07T18:41:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hokuriku Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 8 (K8)", "To": "Tsuruga", "In port": "No"}
 {"Date & Time": "2026-09-07T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Atlantic Affinity", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 7 (K7)", "To": "Xiamen", "In port": "No"}
 {"Date & Time": "2026-09-08T02:56:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 9 (K9)", "To": "Tachibana", "In port": "No"}
+{"Date & Time": "2026-09-08T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Energy Glory", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 4 (D4)", "To": "", "In port": "No"}
