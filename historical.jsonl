@@ -13586,3 +13586,4 @@
 {"Date & Time": "2026-08-24T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Boa", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Port Kembla", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-08-24T16:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tonquipearl", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Kobe", "In port": "Yes"}
 {"Date & Time": "2026-08-24T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Climate Respect", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Taixing", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-08-24T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maizuru Bishamon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Maizuru", "In port": "Yes"}
