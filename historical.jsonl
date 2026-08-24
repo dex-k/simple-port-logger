@@ -13590,3 +13590,4 @@
 {"Date & Time": "2026-08-24T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Newcastle", "In port": "No"}
 {"Date & Time": "2026-08-24T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gas Kate", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "", "In port": "No"}
 {"Date & Time": "2026-08-24T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bougainville", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Port Alma", "In port": "Yes"}
+{"Date & Time": "2026-08-25T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Giacometti", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dyke 4 (D4)", "To": "Qinzhou Pt", "In port": "Yes"}
