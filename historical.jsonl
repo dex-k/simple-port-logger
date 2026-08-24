@@ -13580,3 +13580,4 @@
 {"Date & Time": "2026-08-24T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aal Shanghai", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "Mayfield 4 (M4)", "To": "Brisbane", "In port": "Yes"}
 {"Date & Time": "2026-08-24T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Energy Prometheus", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 9 (K9)", "To": "Tsuruga", "In port": "Yes"}
 {"Date & Time": "2026-08-24T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Alam Kuasa", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Singapore", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-08-24T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kurotakisan Maru III", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Tachibana", "In port": "Yes"}
