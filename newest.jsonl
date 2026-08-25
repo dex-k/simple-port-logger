@@ -167,7 +167,6 @@
 {"Date & Time": "2026-09-06T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bulk Harvest", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-06T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Santorini", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tobata/Kitakyushu", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-06T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Energy Glory", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Xiamen", "To": "Dyke 4 (D4)", "In port": "No"}
-{"Date & Time": "2026-09-06T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aris", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-07T00:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hokuriku Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-07T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Virgo Confidence", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-07T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "First Angelus", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "No"}
@@ -194,3 +193,4 @@
 {"Date & Time": "2026-09-08T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Victory", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tomakomai", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-08T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Manokwari, Irian Jaya", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-08T15:42:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mizusumi", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Takehara", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-09-08T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aris", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "No"}
