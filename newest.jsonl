@@ -194,3 +194,4 @@
 {"Date & Time": "2026-09-08T14:12:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Canary K", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-08T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Victory", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tomakomai", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-08T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Manokwari, Irian Jaya", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-09-08T15:42:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mizusumi", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Takehara", "To": "Kooragang 10 (K10)", "In port": "No"}
