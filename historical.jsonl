@@ -13600,3 +13600,4 @@
 {"Date & Time": "2026-08-25T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kaohsiung", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-25T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Skopelos I", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Hong Kong", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-25T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Climate Respect", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Tokuyama", "In port": "Yes"}
+{"Date & Time": "2026-08-26T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Alam Kuasa", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 9 (K9)", "To": "Tanjung Pelepas", "In port": "Yes"}
