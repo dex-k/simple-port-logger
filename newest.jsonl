@@ -193,3 +193,4 @@
 {"Date & Time": "2026-09-08T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Manokwari, Irian Jaya", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-08T15:42:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mizusumi", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Takehara", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-08T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aris", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "No"}
+{"Date & Time": "2026-09-08T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wyuna", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
