@@ -13594,3 +13594,4 @@
 {"Date & Time": "2026-08-25T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cape Rainbow", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Gladstone", "In port": "Yes"}
 {"Date & Time": "2026-08-25T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Jin Hai Qian", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-25T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "New Promise", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kashima, Ibaraki", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-08-25T11:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pacific Opal", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 10 (K10)", "In port": "No"}
