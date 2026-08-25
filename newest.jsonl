@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-26T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cemtex Renaissance", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 6 (K6)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-26T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pacific Opal", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Noshiro", "In port": "Yes"}
 {"Date & Time": "2026-08-26T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sea Force", "Vessel type": "Tug", "Agent": "ABG", "From": "Brisbane", "To": "Carrington Wharf (CAR)", "In port": "No"}
 {"Date & Time": "2026-08-26T12:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gns Harvest", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Gwangyang", "To": "Kooragang 10 (K10)", "In port": "No"}
