@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-25T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Juniper", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "West Basin 3 (W3)", "To": "Brisbane", "In port": "Yes"}
 {"Date & Time": "2026-08-25T18:51:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Heng May", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Guangzhou", "In port": "Yes"}
 {"Date & Time": "2026-08-25T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kaohsiung", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-25T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Skopelos I", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Hong Kong", "To": "Kooragang 7 (K7)", "In port": "No"}
