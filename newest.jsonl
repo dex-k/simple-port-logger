@@ -1,6 +1,6 @@
 {"Date & Time": "2026-08-26T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Port Dickson", "In port": "Yes"}
 {"Date & Time": "2026-08-26T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Muroran", "Vessel type": "General Cargo Ship", "Agent": "AWS", "From": "Yeosu", "To": "Mayfield 4 (M4)", "In port": "No"}
-{"Date & Time": "2026-08-27T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Km Sydney", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Taichung", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-08-27T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Km Sydney", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Taichung", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-08-27T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Western Stabaek", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Burnie", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-08-27T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arcadia Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Hitachinaka", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-08-27T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Purple Rain", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 7 (K7)", "In port": "No"}
