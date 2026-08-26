@@ -13615,3 +13615,4 @@
 {"Date & Time": "2026-08-26T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Skopelos I", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Tanjong Bin", "In port": "Yes"}
 {"Date & Time": "2026-08-26T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Port Dickson", "In port": "Yes"}
 {"Date & Time": "2026-08-26T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Muroran", "Vessel type": "General Cargo Ship", "Agent": "AWS", "From": "Yeosu", "To": "Mayfield 4 (M4)", "In port": "No"}
+{"Date & Time": "2026-08-27T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Km Sydney", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Taichung", "To": "Dyke 4 (D4)", "In port": "No"}
