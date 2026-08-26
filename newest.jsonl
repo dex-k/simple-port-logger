@@ -1,4 +1,3 @@
-{"Date & Time": "2026-08-26T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Skopelos I", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Tanjong Bin", "In port": "Yes"}
 {"Date & Time": "2026-08-26T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Denita Wave", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Port Dickson", "In port": "Yes"}
 {"Date & Time": "2026-08-26T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Muroran", "Vessel type": "General Cargo Ship", "Agent": "AWS", "From": "Yeosu", "To": "Mayfield 4 (M4)", "In port": "No"}
 {"Date & Time": "2026-08-27T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Km Sydney", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Taichung", "To": "Dyke 4 (D4)", "In port": "No"}
@@ -192,3 +191,4 @@
 {"Date & Time": "2026-09-09T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Victory", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Fukuyama, Hiroshima", "In port": "No"}
 {"Date & Time": "2026-09-09T17:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Guo Hai Lian 805", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Hoping", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-09T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hl Port Hedland", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "Korea, South - Unknown", "In port": "No"}
+{"Date & Time": "2026-09-09T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 5 (D5)", "To": "Japan - Unknown", "In port": "No"}
