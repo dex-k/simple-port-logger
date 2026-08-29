@@ -13663,3 +13663,5 @@
 {"Date & Time": "2026-08-30T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Boga Indah", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Tokuyama", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-08-30T03:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Western Stabaek", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-30T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Muroran", "Vessel type": "General Cargo Ship", "Agent": "AWS", "From": "Mayfield 4 (M4)", "To": "Dyke 2 (D2)", "In port": "Yes"}
+{"Date & Time": "2026-08-30T05:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Brio Faith", "Vessel type": "General Cargo Ship", "Agent": "AWS", "From": "West Basin 4 (W4)", "To": "Bell Bay", "In port": "Yes"}
+{"Date & Time": "2026-08-30T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Duhallow", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Port Kembla", "To": "Kooragang 5 (K5)", "In port": "No"}
