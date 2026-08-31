@@ -13682,3 +13682,6 @@
 {"Date & Time": "2026-08-31T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Boga Indah", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "Taichung", "In port": "Yes"}
 {"Date & Time": "2026-08-31T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Narooma", "Vessel type": "Tug", "Agent": "ABG", "From": "Carrington Wharf (CAR)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-08-31T09:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "First D Yquem", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 9 (K9)", "To": "Nanao", "In port": "Yes"}
+{"Date & Time": "2026-08-31T10:44:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Duhallow", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "Taichung", "In port": "Yes"}
+{"Date & Time": "2026-08-31T12:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ou May", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Jingtang Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-08-31T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xanadu", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
