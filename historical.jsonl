@@ -13689,3 +13689,5 @@
 {"Date & Time": "2026-08-31T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Shining", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Xinsha", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-08-31T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Muroran", "Vessel type": "General Cargo Ship", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-08-31T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "New Drive", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tsukumi", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-08-31T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Rb Jake", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Hong Kong", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-09-01T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Golden Ace", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Tauranga", "In port": "Yes"}
