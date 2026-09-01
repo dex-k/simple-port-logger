@@ -54,7 +54,7 @@
 {"Date & Time": "2026-09-06T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "New Drive", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 3 (K3)", "To": "Port Kembla", "In port": "Yes"}
 {"Date & Time": "2026-09-06T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Morning Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Tachibana", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-06T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Strategic Harmony", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
-{"Date & Time": "2026-09-06T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aal Hong Kong", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "West Basin 4 (W4)", "To": "Port Kembla", "In port": "No"}
+{"Date & Time": "2026-09-06T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aal Hong Kong", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "West Basin 4 (W4)", "To": "Port Kembla", "In port": "Yes"}
 {"Date & Time": "2026-09-06T12:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "First Angelus", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Ube", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-09-06T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Tieshan", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 5 (D5)", "To": "Xiamen", "In port": "No"}
 {"Date & Time": "2026-09-06T17:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Dyke 5 (D5)", "In port": "No"}
@@ -176,3 +176,4 @@
 {"Date & Time": "2026-09-15T19:54:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Da 2", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-15T20:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sea Nova", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gwangyang", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-15T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "United Adventure", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "No"}
+{"Date & Time": "2026-09-16T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Basic Sky", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
