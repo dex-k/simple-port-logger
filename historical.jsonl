@@ -13708,3 +13708,4 @@
 {"Date & Time": "2026-09-01T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Rb Jake", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Yokkaichi", "In port": "Yes"}
 {"Date & Time": "2026-09-02T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aal Hong Kong", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "Melbourne", "To": "West Basin 4 (W4)", "In port": "No"}
 {"Date & Time": "2026-09-02T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sdtr Celeste", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-09-02T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xing Shun Hai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Kobe", "In port": "Yes"}
