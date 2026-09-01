@@ -13696,3 +13696,5 @@
 {"Date & Time": "2026-09-01T07:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shin Yahagi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Souma", "In port": "Yes"}
 {"Date & Time": "2026-09-01T08:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Xing Shun Hai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Zhangjiagang", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-01T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Lin Miarak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "Yes"}
+{"Date & Time": "2026-09-01T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Maizuru", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-09-01T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Wonga", "Vessel type": "Tug", "Agent": "ABG", "From": "Eglo (EGLO)", "To": "Newcastle", "In port": "Yes"}
