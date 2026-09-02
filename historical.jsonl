@@ -13717,3 +13717,6 @@
 {"Date & Time": "2026-09-02T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Triton", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-02T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cape Sasanqua", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Kashima, Ibaraki", "In port": "Yes"}
 {"Date & Time": "2026-09-03T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Hakuta", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 6 (K6)", "To": "Kooragang 5 (K5)", "In port": "Yes"}
+{"Date & Time": "2026-09-03T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "W Trader", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Yeosu", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-09-03T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 4 (K4)", "To": "Xiamen", "In port": "Yes"}
+{"Date & Time": "2026-09-03T08:13:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sdtr Celeste", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
