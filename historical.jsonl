@@ -13720,3 +13720,4 @@
 {"Date & Time": "2026-09-03T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "W Trader", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Yeosu", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-03T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Scarlet Falcon", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 4 (K4)", "To": "Xiamen", "In port": "Yes"}
 {"Date & Time": "2026-09-03T08:13:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sdtr Celeste", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
+{"Date & Time": "2026-09-03T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Genius", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Zhangjian", "To": "Kooragang 4 (K4)", "In port": "No"}
