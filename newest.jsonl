@@ -181,3 +181,4 @@
 {"Date & Time": "2026-09-18T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Haiming 1", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-18T01:31:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shine Jade", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 9 (K9)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-18T03:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maizuru Benten", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Busan", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-09-18T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Oi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Kinuura", "In port": "No"}
