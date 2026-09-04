@@ -13731,3 +13731,4 @@
 {"Date & Time": "2026-09-04T11:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Triton", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-04T13:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Chailease Cherish", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-04T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Cardinal", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Dyke 4 (D4)", "To": "Noumea", "In port": "Yes"}
+{"Date & Time": "2026-09-04T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bbg Tieshan", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Xiamen", "To": "Dyke 4 (D4)", "In port": "No"}
