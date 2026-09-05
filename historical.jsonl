@@ -13737,3 +13737,5 @@
 {"Date & Time": "2026-09-05T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-05T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Km Mt. Jade", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Panjin", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-05T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shin Sanyo Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Misumi, Kumamoto", "In port": "Yes"}
+{"Date & Time": "2026-09-05T10:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Oriental Star", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Zhuhai Pt", "In port": "Yes"}
+{"Date & Time": "2026-09-05T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Freedom", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhoushan Pt", "To": "Kooragang 5 (K5)", "In port": "No"}

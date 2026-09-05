@@ -1,5 +1,3 @@
-{"Date & Time": "2026-09-05T10:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Oriental Star", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Zhuhai Pt", "In port": "Yes"}
-{"Date & Time": "2026-09-05T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Freedom", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhoushan Pt", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-05T22:22:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Morning Glory", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Newcastle", "In port": "Yes"}
 {"Date & Time": "2026-09-06T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wyuna", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-09-06T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Chailease Cherish", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Unknown", "In port": "Yes"}
@@ -147,7 +145,6 @@
 {"Date & Time": "2026-09-15T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Ace", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tomakomai", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-15T18:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bronze Lady", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Brisbane", "To": "East Basin 1 (E1)", "In port": "No"}
 {"Date & Time": "2026-09-15T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Haramachi Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Tokuyama", "In port": "No"}
-{"Date & Time": "2026-09-15T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "United Adventure", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "No"}
 {"Date & Time": "2026-09-15T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Seagull Wind", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-16T00:19:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mba Giovanni", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-16T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Oi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 10 (K10)", "In port": "No"}
@@ -191,3 +188,4 @@
 {"Date & Time": "2026-09-19T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 4 (D4)", "To": "Niihama", "In port": "No"}
 {"Date & Time": "2026-09-19T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Suoh Pacific", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Tokuyama", "In port": "No"}
 {"Date & Time": "2026-09-19T08:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Concordia", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-09-19T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "United Adventure", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "No"}
