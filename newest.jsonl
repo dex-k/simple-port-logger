@@ -194,3 +194,5 @@
 {"Date & Time": "2026-09-19T20:39:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kaguya", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-19T21:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Dona Bibi", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Kooragang 4 (K4)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-19T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Haiming 1", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 6 (K6)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
+{"Date & Time": "2026-09-20T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amoy Sunny", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-09-20T01:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "FPMC B 106", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Kooragang 6 (K6)", "In port": "No"}
