@@ -13740,3 +13740,5 @@
 {"Date & Time": "2026-09-05T10:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Oriental Star", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Zhuhai Pt", "In port": "Yes"}
 {"Date & Time": "2026-09-05T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Freedom", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhoushan Pt", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-05T22:22:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Morning Glory", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Newcastle", "In port": "Yes"}
+{"Date & Time": "2026-09-06T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wyuna", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
+{"Date & Time": "2026-09-06T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Chailease Cherish", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Unknown", "In port": "Yes"}

@@ -1,5 +1,3 @@
-{"Date & Time": "2026-09-06T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wyuna", "Vessel type": "Cement Carrier", "Agent": "WAV", "From": "Gladstone", "To": "Kooragang 2 (K2)", "In port": "No"}
-{"Date & Time": "2026-09-06T04:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Chailease Cherish", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-06T05:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Km Mt. Jade", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Taichung", "In port": "No"}
 {"Date & Time": "2026-09-06T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "World Seafarer Md", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Japan - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-06T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Katagalan Wisdom", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kaohsiung", "To": "Kooragang 4 (K4)", "In port": "No"}
