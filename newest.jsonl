@@ -153,7 +153,6 @@
 {"Date & Time": "2026-09-16T03:19:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nagara Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-16T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Atlantic Bonanza", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kobe", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-16T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "African Peacock", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
-{"Date & Time": "2026-09-16T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-16T19:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pacific Lotus", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Chittagong", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-16T22:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "C. Utopia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-16T22:18:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cape Britannia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "No"}
@@ -189,3 +188,4 @@
 {"Date & Time": "2026-09-19T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Suoh Pacific", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 7 (K7)", "To": "Tokuyama", "In port": "No"}
 {"Date & Time": "2026-09-19T08:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Concordia", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-09-19T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "United Adventure", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "No"}
+{"Date & Time": "2026-09-19T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
