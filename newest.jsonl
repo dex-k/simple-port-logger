@@ -190,3 +190,4 @@
 {"Date & Time": "2026-09-20T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shi Dai 2", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-20T20:16:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kaguya", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 9 (K9)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-20T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Concordia", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Dyke 4 (D4)", "To": "", "In port": "No"}
+{"Date & Time": "2026-09-20T21:46:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Minami", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 9 (K9)", "In port": "No"}
