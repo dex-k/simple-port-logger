@@ -13746,3 +13746,5 @@
 {"Date & Time": "2026-09-06T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "World Seafarer Md", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Japan - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-06T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Katagalan Wisdom", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kaohsiung", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-06T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Medi Domus Daini", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dongjiangkou", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-09-06T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Astro Sirius", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kendari, Sulawesi", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-09-06T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aal Hong Kong", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "West Basin 4 (W4)", "To": "Port Kembla", "In port": "Yes"}
