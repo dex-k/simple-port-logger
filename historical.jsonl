@@ -13757,3 +13757,4 @@
 {"Date & Time": "2026-09-07T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maran Voyager", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Jingtang Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-07T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bulk Harvest", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-07T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-09-07T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Strategic Harmony", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
