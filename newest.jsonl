@@ -1,4 +1,3 @@
-{"Date & Time": "2026-09-09T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Star Kvarven", "Vessel type": "Open Hatch Cargo Ship", "Agent": "ISS", "From": "East Basin 2 (E2)", "To": "Bluff", "In port": "Yes"}
 {"Date & Time": "2026-09-09T06:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "FPMC B Guard", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Hong Kong, China - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-09T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "Tachibana", "In port": "Yes"}
 {"Date & Time": "2026-09-09T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kona Trader", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Hong Kong, China - Unknown", "In port": "Yes"}
@@ -204,3 +203,5 @@
 {"Date & Time": "2026-09-22T18:47:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Heng Tai Qiang", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Shanghai Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-22T21:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cardiff", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "Hoping", "In port": "No"}
 {"Date & Time": "2026-09-22T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Rosewood", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-09-23T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hakutaka", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Hitachinaka", "In port": "No"}
+{"Date & Time": "2026-09-23T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Splendor", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 4 (D4)", "To": "", "In port": "No"}
