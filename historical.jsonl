@@ -13786,3 +13786,5 @@
 {"Date & Time": "2026-09-08T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Arabica", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-08T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "ND THELXIS", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Singapore", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-08T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Prt Kaho", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Misumi, Kumamoto", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-09-09T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Toiny", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-09-09T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Energy Primavera", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dangjin", "To": "Kooragang 9 (K9)", "In port": "No"}
