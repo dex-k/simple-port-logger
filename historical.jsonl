@@ -13773,3 +13773,5 @@
 {"Date & Time": "2026-09-08T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kona Trader", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Xiamen", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-08T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tachibana", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-08T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shoho Maru III", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tachibana", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-09-08T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Energy Glory", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Xiamen", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-09-08T10:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Strategic Harmony", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
