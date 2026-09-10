@@ -13801,3 +13801,7 @@
 {"Date & Time": "2026-09-09T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Beauty", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Rizhao Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-10T00:34:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Toiny", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 9 (K9)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-10T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "ND THELXIS", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-10T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Atlantic Affinity", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 7 (K7)", "To": "Xiamen", "In port": "Yes"}
+{"Date & Time": "2026-09-10T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Wisdom", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-10T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Prt Kaho", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 4 (D4)", "To": "Kobe", "In port": "Yes"}
+{"Date & Time": "2026-09-10T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Morning Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Tachibana", "To": "Kooragang 4 (K4)", "In port": "No"}
