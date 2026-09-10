@@ -13817,3 +13817,4 @@
 {"Date & Time": "2026-09-11T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Dyke 2 (D2)", "In port": "No"}
 {"Date & Time": "2026-09-11T05:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hl Port Hedland", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-11T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Morning Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 4 (K4)", "To": "Tokuyama", "In port": "Yes"}
+{"Date & Time": "2026-09-11T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aris", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
