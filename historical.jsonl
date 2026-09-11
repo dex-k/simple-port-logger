@@ -13819,3 +13819,5 @@
 {"Date & Time": "2026-09-11T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Morning Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 4 (K4)", "To": "Tokuyama", "In port": "Yes"}
 {"Date & Time": "2026-09-11T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aris", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-11T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Captain Andreas", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Dyke 2 (D2)", "In port": "No"}
+{"Date & Time": "2026-09-11T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Victory", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Fukuyama, Hiroshima", "In port": "Yes"}
+{"Date & Time": "2026-09-11T15:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Zhao Yang Feng", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Chiwan Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
