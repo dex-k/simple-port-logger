@@ -13838,3 +13838,5 @@
 {"Date & Time": "2026-09-12T11:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Zenith", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Busan", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-09-12T12:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Progress", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dongguan Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-12T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Ambitious", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-09-12T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Zhao Yang Feng", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Xiamen", "In port": "Yes"}
+{"Date & Time": "2026-09-12T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mg Earth", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kawasaki", "To": "Kooragang 6 (K6)", "In port": "No"}
