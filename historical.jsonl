@@ -13841,3 +13841,5 @@
 {"Date & Time": "2026-09-12T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Zhao Yang Feng", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Xiamen", "In port": "Yes"}
 {"Date & Time": "2026-09-12T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mg Earth", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kawasaki", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-13T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aris", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-13T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pacific Energy", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-09-13T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tenryu Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 10 (K10)", "To": "Japan - Unknown", "In port": "Yes"}
