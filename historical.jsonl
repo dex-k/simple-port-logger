@@ -13846,3 +13846,4 @@
 {"Date & Time": "2026-09-13T05:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Zenith", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-13T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aal Kembla", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "Newcastle", "To": "East Basin 1 (E1)", "In port": "No"}
 {"Date & Time": "2026-09-13T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pont Rouge", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Gladstone", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-09-13T09:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Reimei", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Reihoku", "To": "Kooragang 7 (K7)", "In port": "No"}
