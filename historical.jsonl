@@ -13857,3 +13857,6 @@
 {"Date & Time": "2026-09-13T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hokulink", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tsuruga", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-09-13T20:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Uilia", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 9 (K9)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-13T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mg Earth", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Kimitsu", "In port": "Yes"}
+{"Date & Time": "2026-09-13T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Royal Bliss", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 5 (D5)", "To": "Taipei", "In port": "Yes"}
+{"Date & Time": "2026-09-13T23:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amabie Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Hong Kong", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-09-14T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Golden Kennedy", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Jingtang Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
