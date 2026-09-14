@@ -13863,3 +13863,5 @@
 {"Date & Time": "2026-09-14T02:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Altmann", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Mayfield 7 (M7)", "To": "Singapore", "In port": "Yes"}
 {"Date & Time": "2026-09-14T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Andrea Palladio", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kudamatsu", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-14T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sasebo Eco", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Toyamashinko", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-09-14T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pacific Energy", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Tanjung Gelang", "In port": "Yes"}
+{"Date & Time": "2026-09-14T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Legato II", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 8 (K8)", "To": "Takehara", "In port": "Yes"}
