@@ -1,4 +1,4 @@
-{"Date & Time": "2026-09-16T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "C. Utopia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "Korea, South - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-16T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "C. Utopia", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 5 (K5)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-16T13:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tohoku Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Sakata", "In port": "Yes"}
 {"Date & Time": "2026-09-16T14:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Ace", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tomakomai", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-16T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Oi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
@@ -192,3 +192,5 @@
 {"Date & Time": "2026-09-30T00:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Double Delight", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 9 (K9)", "To": "Yeosu", "In port": "No"}
 {"Date & Time": "2026-09-30T01:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Adonis", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Newcastle", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-30T03:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Noble Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 6 (K6)", "To": "Matsuura, Nagasaki", "In port": "No"}
+{"Date & Time": "2026-09-30T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Zhenshi Navigator", "Vessel type": "General Cargo Ship", "Agent": "ISS", "From": "Mayfield 4 (M4)", "To": "Singapore", "In port": "No"}
+{"Date & Time": "2026-09-30T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Century Xiamen", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "", "In port": "No"}
