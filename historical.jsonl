@@ -13887,3 +13887,5 @@
 {"Date & Time": "2026-09-15T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Prayon", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 5 (D5)", "To": "Hay Point", "In port": "Yes"}
 {"Date & Time": "2026-09-15T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aal Kembla", "Vessel type": "Heavy Load Carrier", "Agent": "CLK", "From": "Taicang Pt", "To": "Mayfield 4 (M4)", "In port": "No"}
 {"Date & Time": "2026-09-15T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bronze Lady", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Brisbane", "To": "East Basin 1 (E1)", "In port": "No"}
+{"Date & Time": "2026-09-16T00:19:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mba Giovanni", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 8 (K8)", "To": "", "In port": "No"}
+{"Date & Time": "2026-09-16T00:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cemtex Excellence", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 10 (K10)", "To": "Chinese Taipei - Unknown", "In port": "Yes"}
