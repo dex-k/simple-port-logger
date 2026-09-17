@@ -13903,3 +13903,6 @@
 {"Date & Time": "2026-09-17T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sky Knight", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Pohang", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-09-17T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Niihama", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-17T16:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cape Britannia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Bayuquan", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-09-17T19:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hsl Onomichi", "Vessel type": "Open Hatch Cargo Ship", "Agent": "WAV", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
+{"Date & Time": "2026-09-17T20:59:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aal Kembla", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "East Basin 1 (E1)", "To": "", "In port": "No"}
+{"Date & Time": "2026-09-17T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Nature", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Matsuura, Oita", "In port": "Yes"}
