@@ -13913,3 +13913,4 @@
 {"Date & Time": "2026-09-18T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Oi Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 8 (K8)", "To": "Kinuura", "In port": "Yes"}
 {"Date & Time": "2026-09-18T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Ace", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Tomakomai", "In port": "Yes"}
 {"Date & Time": "2026-09-18T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Atlantic Bonanza", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kobe", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-09-18T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Eastern Zinnia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhangjiagang", "To": "Kooragang 4 (K4)", "In port": "No"}
