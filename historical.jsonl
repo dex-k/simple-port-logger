@@ -13920,3 +13920,5 @@
 {"Date & Time": "2026-09-19T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cape Britannia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-19T02:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Saiko", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Huanghua", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-19T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ishizuchi Ii", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 5 (D5)", "To": "Niihama", "In port": "Yes"}
+{"Date & Time": "2026-09-19T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Concordia", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Zhangjian", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-09-19T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maizuru Benten", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Maizuru", "In port": "Yes"}
