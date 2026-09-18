@@ -13914,3 +13914,6 @@
 {"Date & Time": "2026-09-18T13:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Ace", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Tomakomai", "In port": "Yes"}
 {"Date & Time": "2026-09-18T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Atlantic Bonanza", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kobe", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-18T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Eastern Zinnia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhangjiagang", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-09-18T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aal Kembla", "Vessel type": "Heavy Load Carrier", "Agent": "CLK", "From": "Mayfield 4 (M4)", "To": "Adelaide", "In port": "Yes"}
+{"Date & Time": "2026-09-18T22:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sky Knight", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Dyke 4 (D4)", "To": "Tsukumi", "In port": "Yes"}
+{"Date & Time": "2026-09-18T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pacific Lotus", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Chittagong", "To": "Dyke 4 (D4)", "In port": "No"}
