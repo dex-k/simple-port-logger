@@ -1,4 +1,3 @@
-{"Date & Time": "2026-09-20T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amoy Sunny", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-20T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Eastern Zinnia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-20T05:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maritime Guardian", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Hongkou", "To": "Mayfield 7 (M7)", "In port": "No"}
 {"Date & Time": "2026-09-20T07:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Taho VIrtue", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Reihoku", "To": "Kooragang 4 (K4)", "In port": "No"}
@@ -9,7 +8,7 @@
 {"Date & Time": "2026-09-20T17:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Haramachi Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Tokuyama", "In port": "Yes"}
 {"Date & Time": "2026-09-20T19:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Ocean", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Songxia Pt", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-21T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Weco Esther", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Prony", "To": "Dyke 5 (D5)", "In port": "No"}
-{"Date & Time": "2026-09-21T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shine Jade", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 8 (K8)", "To": "Gladstone", "In port": "No"}
+{"Date & Time": "2026-09-21T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shine Jade", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 8 (K8)", "To": "Gladstone", "In port": "Yes"}
 {"Date & Time": "2026-09-21T05:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Minami", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-21T10:26:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Zuiyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-21T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bronze Lady", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "East Basin 1 (E1)", "To": "Mackay", "In port": "Yes"}
