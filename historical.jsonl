@@ -13927,3 +13927,5 @@
 {"Date & Time": "2026-09-19T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-19T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "African Peacock", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-19T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Weaver Arrow", "Vessel type": "Open Hatch Cargo Ship", "Agent": "MON", "From": "Melbourne", "To": "Dyke 2 (D2)", "In port": "No"}
+{"Date & Time": "2026-09-19T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Atlantic Bonanza", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 8 (K8)", "To": "Xiamen", "In port": "Yes"}
+{"Date & Time": "2026-09-20T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shine Jade", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Taichung", "To": "Kooragang 8 (K8)", "In port": "No"}

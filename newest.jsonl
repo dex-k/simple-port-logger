@@ -1,5 +1,3 @@
-{"Date & Time": "2026-09-19T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Atlantic Bonanza", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 8 (K8)", "To": "Xiamen", "In port": "Yes"}
-{"Date & Time": "2026-09-20T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shine Jade", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Taichung", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-20T00:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amoy Sunny", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-20T03:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Eastern Zinnia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-20T05:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maritime Guardian", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Hongkou", "To": "Mayfield 7 (M7)", "In port": "No"}
@@ -17,7 +15,7 @@
 {"Date & Time": "2026-09-21T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bronze Lady", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "East Basin 1 (E1)", "To": "Mackay", "In port": "Yes"}
 {"Date & Time": "2026-09-21T12:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Weaver Arrow", "Vessel type": "Open Hatch Cargo Ship", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Gladstone", "In port": "Yes"}
 {"Date & Time": "2026-09-21T12:55:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Araucano", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 9 (K9)", "To": "Netherlands - Unknown", "In port": "No"}
-{"Date & Time": "2026-09-21T14:25:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nagara Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Onahama", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-09-21T14:24:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nagara Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Onahama", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-09-21T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-21T15:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hellas Tatiana", "Vessel type": "Chemical/Products Tanker", "Agent": "WSS", "From": "Onsan/Ulsan", "To": "Dyke 1 (D1)", "In port": "No"}
 {"Date & Time": "2026-09-21T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Zenith", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Hibiki-Nada", "To": "Kooragang 5 (K5)", "In port": "No"}
@@ -213,3 +211,4 @@
 {"Date & Time": "2026-10-03T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hl Midland", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-10-03T17:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Alamo", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Newcastle", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-10-03T18:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "BANGOR", "Vessel type": "Bulk/Caustic Soda Carrier (CABU)", "Agent": "WSA", "From": "Gladstone", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-10-03T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maple Fortune", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Auckland", "In port": "No"}
