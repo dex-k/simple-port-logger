@@ -13923,3 +13923,5 @@
 {"Date & Time": "2026-09-19T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Concordia", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Zhangjian", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-09-19T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maizuru Benten", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 10 (K10)", "To": "Maizuru", "In port": "Yes"}
 {"Date & Time": "2026-09-19T11:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Haramachi Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-09-19T13:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "United Adventure", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-19T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
