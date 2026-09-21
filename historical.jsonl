@@ -13948,3 +13948,6 @@
 {"Date & Time": "2026-09-21T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Minami", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-21T15:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Ultimate", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-21T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Zenith", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Hibiki-Nada", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-09-21T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hellas Tatiana", "Vessel type": "Chemical/Products Tanker", "Agent": "WSS", "From": "Onsan/Ulsan", "To": "Dyke 1 (D1)", "In port": "No"}
+{"Date & Time": "2026-09-21T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maritime Guardian", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Mayfield 7 (M7)", "To": "Singapore", "In port": "Yes"}
+{"Date & Time": "2026-09-21T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Minami", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
