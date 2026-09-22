@@ -13968,3 +13968,5 @@
 {"Date & Time": "2026-09-23T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Heng Tai Qiang", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Shanghai Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-23T02:35:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Zuiyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
 {"Date & Time": "2026-09-23T04:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sea Nova", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Kaohsiung", "In port": "Yes"}
+{"Date & Time": "2026-09-23T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Suoh Pacific", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-09-23T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Csk Unity", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 9 (K9)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
