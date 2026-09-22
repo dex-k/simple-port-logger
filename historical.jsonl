@@ -13963,3 +13963,4 @@
 {"Date & Time": "2026-09-22T14:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Heng Tai Yang", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Shanghai", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-22T15:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Msxt Helen", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-22T16:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Weco Esther", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Soma", "In port": "Yes"}
+{"Date & Time": "2026-09-22T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Basic Sky", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "China, People's Republic Of - Unknown", "To": "Dyke 5 (D5)", "In port": "No"}
