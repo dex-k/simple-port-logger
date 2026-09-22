@@ -13956,3 +13956,5 @@
 {"Date & Time": "2026-09-22T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Taho VIrtue", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-22T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Minami", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-22T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Zenith", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Hibiki-Nada", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-09-22T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sea Nova", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gwangyang", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-09-22T09:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Csk Unity", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Masinloc/Sual", "To": "Kooragang 9 (K9)", "In port": "No"}
