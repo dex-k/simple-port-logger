@@ -13984,3 +13984,5 @@
 {"Date & Time": "2026-09-24T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Beryl", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dongjiangkou", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-09-24T11:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Suoh Pacific", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 4 (K4)", "To": "Tokuyama", "In port": "Yes"}
 {"Date & Time": "2026-09-24T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Milagro", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Indonesia - Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-09-24T14:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Wincanton", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Gladstone", "In port": "Yes"}
+{"Date & Time": "2026-09-24T17:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Basic Sky", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Dyke 5 (D5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
