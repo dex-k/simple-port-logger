@@ -13981,3 +13981,6 @@
 {"Date & Time": "2026-09-23T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Uno", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Bahudopi", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-24T07:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gerasimos", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 9 (K9)", "To": "Port Dickson", "In port": "Yes"}
 {"Date & Time": "2026-09-24T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kaguya", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tachibana", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-09-24T10:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Beryl", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dongjiangkou", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-09-24T11:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Suoh Pacific", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 4 (K4)", "To": "Tokuyama", "In port": "Yes"}
+{"Date & Time": "2026-09-24T12:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Milagro", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Indonesia - Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
