@@ -13989,3 +13989,5 @@
 {"Date & Time": "2026-09-24T20:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shi Dai 1", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 10 (K10)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-24T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nagara Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Onahama", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-24T22:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Beltrader", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Brisbane", "To": "Kooragang 3 (K3)", "In port": "No"}
+{"Date & Time": "2026-09-25T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bisan Clover", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 5 (K5)", "To": "Gladstone", "In port": "Yes"}
+{"Date & Time": "2026-09-25T06:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Toiny", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhoushan Pt", "To": "Kooragang 5 (K5)", "In port": "No"}
