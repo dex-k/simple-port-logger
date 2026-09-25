@@ -14007,3 +14007,5 @@
 {"Date & Time": "2026-09-25T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tai Splendor", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-09-25T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ocean Shine", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Putian", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-09-26T05:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Golden Mind", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Taichung", "In port": "Yes"}
+{"Date & Time": "2026-09-26T06:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Toiny", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-26T08:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Rapallo", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Weda", "To": "Kooragang 5 (K5)", "In port": "No"}
