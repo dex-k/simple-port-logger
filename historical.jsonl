@@ -14005,3 +14005,4 @@
 {"Date & Time": "2026-09-25T18:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nagara Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 10 (K10)", "To": "Onahama", "In port": "Yes"}
 {"Date & Time": "2026-09-25T20:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "CS Jinan", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-09-25T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tai Splendor", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-09-25T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ocean Shine", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Putian", "To": "Kooragang 4 (K4)", "In port": "No"}
