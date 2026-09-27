@@ -1,4 +1,3 @@
-{"Date & Time": "2026-09-28T06:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Golden Hope", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Longkou Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-28T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hakuyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tomakomai", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-28T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kassiopi.Gr", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "San Lorenzo", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-09-28T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Splendor", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 4 (D4)", "To": "Unknown", "In port": "Yes"}
@@ -208,3 +207,4 @@
 {"Date & Time": "2026-10-11T22:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ultra Determination", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Port Kembla", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-10-11T23:13:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leading Bravery", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Ishikawa", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-10-12T00:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shun Ying", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Jinghai", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-10-12T05:43:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hc Progress 2", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "Dongguan Pt", "In port": "No"}
