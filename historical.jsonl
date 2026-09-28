@@ -14034,3 +14034,5 @@
 {"Date & Time": "2026-09-28T07:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hakuyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tomakomai", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-09-28T08:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kassiopi.Gr", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "San Lorenzo", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-09-28T09:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Splendor", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 4 (D4)", "To": "Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-28T09:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tai Splendor", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Dyke 4 (D4)", "To": "Unknown", "In port": "Yes"}
+{"Date & Time": "2026-09-28T10:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tong Shun", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
