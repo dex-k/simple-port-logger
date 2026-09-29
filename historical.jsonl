@@ -14067,3 +14067,4 @@
 {"Date & Time": "2026-09-30T01:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Yun Tong", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 8 (K8)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-09-30T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Msxt Bellona", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Ningbo Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-09-30T04:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Beltrader", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Newcastle", "In port": "Yes"}
+{"Date & Time": "2026-09-30T08:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Rosewood", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
