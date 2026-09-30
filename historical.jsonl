@@ -14079,3 +14079,5 @@
 {"Date & Time": "2026-09-30T18:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Morning Cloud", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-09-30T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "STI VIrtus", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Singapore", "To": "Dyke 1 (D1)", "In port": "No"}
 {"Date & Time": "2026-09-30T23:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Asahi Maru", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-01T01:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "BANGOR", "Vessel type": "Bulk/Caustic Soda Carrier (CABU)", "Agent": "WSA", "From": "Gladstone", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-10-01T03:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ultra Agulhas", "Vessel type": "General Cargo Ship", "Agent": "ISS", "From": "Mayfield 4 (M4)", "To": "Bontang, Kl", "In port": "Yes"}
