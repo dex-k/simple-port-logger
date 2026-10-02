@@ -107,10 +107,17 @@ empty file simply contributes no movements.
 
 ## Notes
 
-`scrape.py` builds each movement's full timestamp using `datetime.today().year`, so
-around New Year the year can be misassigned for movements that fall in the next
-calendar year — the schedule runs about two weeks ahead, so this is reachable in late
-December.
+`scrape.py` resolves each movement's year from the schedule window rather than from the
+current date. The page prints no year, and the schedule is a rolling ~2 week forward view,
+so a January date seen in a December run belongs to the following year — taking the
+current year would date it a year in the past. The schedule source is always
+`Australia/Sydney`, and the script pins that zone explicitly, so the resolved year does not
+depend on the timezone the script or its host happens to run in.
+
+That dependence was real until recently: `scheduled-scrape.yml` sets `TZ` only on the
+commit step, so the scrape step runs on the runner's UTC clock. The script no longer relies
+on the ambient zone for dates, but anything else added to that step should set `TZ` itself
+rather than inherit it.
 
 `consolidate.py` reassigns the `future` name mid-loop from a list to a generator. It
 works, but reads oddly.
