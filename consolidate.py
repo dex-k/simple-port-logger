@@ -63,17 +63,40 @@ def write_to_jsonl(movements, filename):
 
 
 def _berth_activity(moves, x, y):
-    """True if the vessel left/returned to x's berth somewhere between x and y."""
+    """True if the vessel left/returned to x's berth somewhere between x and y.
+
+    A Shift counts as leaving or arriving: moving off the berth vacates it just as a
+    Departure does, and moving onto it is an arrival. Ignoring shifts dropped rows for
+    vessels that demonstrably did return -- tugs often move berth rather than sail out
+    of the port, so their return is recorded as a Shift.
+    """
     if x["ARR / DEP"] == "Arrival":
-        berth, wanted = x["To"], "Departure"     # it must have departed that berth
-        opposite = lambda m: m["ARR / DEP"] == wanted and m["From"] == berth
+        berth = x["To"]
+
+        def vacated(m):
+            return m["From"] == berth and (
+                m["ARR / DEP"] == "Departure"
+                or (m["ARR / DEP"] == "Shift" and m["To"] != berth)
+            )
     else:
-        berth, wanted = x["From"], "Arrival"     # it must have arrived back at it
-        opposite = lambda m: m["ARR / DEP"] == wanted and m["To"] == berth
+        berth = x["From"]
+
+        def vacated(m):
+            return m["To"] == berth and (
+                m["ARR / DEP"] == "Arrival"
+                or (m["ARR / DEP"] == "Shift" and m["From"] != berth)
+            )
     return any(
-        opposite(m) and x["Date & Time"] < m["Date & Time"] < y["Date & Time"]
+        vacated(m) and x["Date & Time"] <= m["Date & Time"] <= y["Date & Time"]
         for m in moves
     )
+
+
+# A revised time is announced while the movement is still inside the schedule's ~2 week
+# forward window (observed max span 13.96 days). A later time further out than that
+# cannot be the same movement re-timed -- by then the earlier time had been listed,
+# passed, and left the page, so two entries that far apart are separate visits.
+MAX_SUPERSEDE_DAYS = 14
 
 
 def drop_superseded(consolidated):
@@ -108,11 +131,14 @@ def drop_superseded(consolidated):
         moves = by_vessel[route[0]]
         for n, i in enumerate(ids):
             for j in ids[n + 1:]:
-                # An identical scheduled time is the port listing one movement twice
-                # with conflicting detail, not a reschedule -- a revised time always
-                # moves. Those are kept on purpose, so only later times can supersede.
-                if consolidated[j]["Date & Time"] <= consolidated[i]["Date & Time"]:
+                gap = consolidated[j]["Date & Time"] - consolidated[i]["Date & Time"]
+                if gap <= datetime.timedelta(0):
+                    # Same instant: the port listing one movement twice with conflicting
+                    # detail, not a revised time. Kept on purpose.
                     continue
+                if gap.days > MAX_SUPERSEDE_DAYS:
+                    # ids are time-ordered, so every later entry is further out still.
+                    break
                 if not _berth_activity(moves, consolidated[i], consolidated[j]):
                     superseded.add(i)
                     break

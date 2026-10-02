@@ -124,13 +124,19 @@ works, but reads oddly.
 
 ### What `historical.jsonl` does with the source's revisions
 
-It holds one row per movement that was actually scheduled, not one row per movement the
-port ever listed. Where the port moved a movement's time, the superseded time is dropped,
-using the schedule's own physical constraint: a vessel cannot arrive at a berth twice
-without departing it in between, nor depart twice without arriving back at it. So two
-entries sharing a vessel, route and direction with nothing at that berth between them are
-one movement under two times, and only the later one stood. Where such a movement does sit
+One row per movement that was actually scheduled, not one row per movement the port ever
+listed. Where the port moved a movement's time, the superseded time is dropped, using the
+schedule's own physical constraint: a vessel cannot arrive at a berth twice without
+departing it in between, nor depart twice without arriving back at it. So two entries
+sharing a vessel, route and direction with nothing at that berth between them are one
+movement under two times, and only the later one stood. Where such a movement does sit
 between them, they are genuine repeat visits and all of them are kept.
+
+Two details matter for that comparison. It only applies within about two weeks — the
+schedule's own forward window — because beyond that the earlier time had already been
+listed, passed and left the page, so a revision is impossible and the two entries are
+separate visits. And leaving a berth counts whether the vessel departed it or merely
+shifted off it, since tugs often move berth rather than sail out of the port.
 
 Two source quirks are recorded rather than repaired, because the data itself contradicts:
 
