@@ -64,6 +64,7 @@ def write_to_jsonl(movements, filename):
 if __name__ == "__main__":
 
     consolidated = [] # [0] is oldest [-1] is youngest
+    consolidated_seen = set() # serialised movements already kept, to drop repeats
     future = [] # [0] is nearest [-1] is furthest
 
     # sort the files in the directory
@@ -85,10 +86,14 @@ if __name__ == "__main__":
         # split into historical and future 
         for i, movement in enumerate(future):
             if movement["Date & Time"] < schedule_date:
-                # check we don't already have a duplicate in the last N consolidated
-                # (this can happen if the schedule is updated a bit late)
-                if consolidated and serialise(movement) == serialise(consolidated[-1]):
+                # A movement already kept is dropped. The page can go on listing a
+                # movement for more than one snapshot after it has passed, and when
+                # several pass together their repeats interleave, so comparing only
+                # against the most recent entry lets them through.
+                key = serialise(movement)
+                if key in consolidated_seen:
                     continue
+                consolidated_seen.add(key)
                 consolidated.append(movement)
             else: # chronological, so can short circuit
                 break
