@@ -4562,3 +4562,6 @@
 {"Date & Time": "2026-10-02T17:15:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hakutaka", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kawasaki", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-10-02T21:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Star Kvarven", "Vessel type": "Open Hatch Cargo Ship", "Agent": "MON", "From": "Portland", "To": "West Basin 3 (W3)", "In port": "No"}
 {"Date & Time": "2026-10-03T00:50:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Adonis", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Korea, South - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-03T02:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cemtex Dominance", "Vessel type": "Bulk Carrier", "Agent": "PWCS", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-10-03T03:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Lotus Blossom", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kakogawa", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-10-03T04:45:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Maple Fortune", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Port Pirie", "To": "Dyke 2 (D2)", "In port": "No"}
