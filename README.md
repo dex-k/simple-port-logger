@@ -121,3 +121,24 @@ rather than inherit it.
 
 `consolidate.py` reassigns the `future` name mid-loop from a list to a generator. It
 works, but reads oddly.
+
+### What `historical.jsonl` does with the source's revisions
+
+It holds one row per movement that was actually scheduled, not one row per movement the
+port ever listed. Where the port moved a movement's time, the superseded time is dropped,
+using the schedule's own physical constraint: a vessel cannot arrive at a berth twice
+without departing it in between, nor depart twice without arriving back at it. So two
+entries sharing a vessel, route and direction with nothing at that berth between them are
+one movement under two times, and only the later one stood. Where such a movement does sit
+between them, they are genuine repeat visits and all of them are kept.
+
+Two source quirks are recorded rather than repaired, because the data itself contradicts:
+
+- The page sometimes lists one movement twice *within a single scrape* with conflicting
+  detail — a different `Agent`, or `In port` both `No` and `Yes`. Both rows are kept: the
+  port gives no basis for preferring either, and both are equally its current word.
+- The raw snapshots under `data/` contain repeats inside a single scrape. Consolidation
+  removes them from `historical.jsonl`, but `data/` keeps them as the source record.
+
+Both files here are derived. `data/` is the only first-hand record, and everything above
+can be recomputed from it.

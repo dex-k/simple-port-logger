@@ -61,6 +61,64 @@ def write_to_jsonl(movements, filename):
         for movement in movements:
             f.write(serialise(movement))
 
+
+def _berth_activity(moves, x, y):
+    """True if the vessel left/returned to x's berth somewhere between x and y."""
+    if x["ARR / DEP"] == "Arrival":
+        berth, wanted = x["To"], "Departure"     # it must have departed that berth
+        opposite = lambda m: m["ARR / DEP"] == wanted and m["From"] == berth
+    else:
+        berth, wanted = x["From"], "Arrival"     # it must have arrived back at it
+        opposite = lambda m: m["ARR / DEP"] == wanted and m["To"] == berth
+    return any(
+        opposite(m) and x["Date & Time"] < m["Date & Time"] < y["Date & Time"]
+        for m in moves
+    )
+
+
+def drop_superseded(consolidated):
+    """One row per real movement, using the port's own physical constraint.
+
+    A vessel cannot arrive at a berth twice without departing it in between, nor depart
+    twice without arriving back at it. So when two entries share a vessel, route and
+    direction and nothing happened at that berth between them, they cannot both describe
+    separate events: the earlier one is the same movement under a time the port later
+    revised, and only the later time says what actually happened.
+
+    Where such a movement does sit between the two, they are genuine repeat visits and
+    both are kept -- collapsing those would discard real movements.
+    """
+    by_route = {}
+    for i, movement in enumerate(consolidated):
+        if movement["ARR / DEP"] not in ("Arrival", "Departure"):
+            continue  # a Shift is not one half of an arrival/departure pair
+        route = (movement["Vessel"], movement["From"], movement["To"], movement["ARR / DEP"])
+        by_route.setdefault(route, []).append(i)
+    for ids in by_route.values():
+        ids.sort(key=lambda i: consolidated[i]["Date & Time"])
+
+    by_vessel = {}
+    for movement in consolidated:
+        by_vessel.setdefault(movement["Vessel"], []).append(movement)
+
+    superseded = set()
+    for route, ids in by_route.items():
+        if len(ids) < 2:
+            continue
+        moves = by_vessel[route[0]]
+        for n, i in enumerate(ids):
+            for j in ids[n + 1:]:
+                # An identical scheduled time is the port listing one movement twice
+                # with conflicting detail, not a reschedule -- a revised time always
+                # moves. Those are kept on purpose, so only later times can supersede.
+                if consolidated[j]["Date & Time"] <= consolidated[i]["Date & Time"]:
+                    continue
+                if not _berth_activity(moves, consolidated[i], consolidated[j]):
+                    superseded.add(i)
+                    break
+    return [m for i, m in enumerate(consolidated) if i not in superseded]
+
+
 if __name__ == "__main__":
 
     consolidated = [] # [0] is oldest [-1] is youngest
@@ -101,6 +159,12 @@ if __name__ == "__main__":
         # whole current schedule is new future
         future = (deserialise(line) for line in get_lines_in_file(file_path))
     
+    # One row per real movement: an earlier time for a movement the vessel cannot have
+    # made twice is the same event under a revised time, so keep only the later one.
+    kept = drop_superseded(consolidated)
+    print(f"\nDropped {len(consolidated) - len(kept)} superseded movement time(s)")
+    consolidated = kept
+
     # Update
     print(f"Generated consolidated historical schedule with {len(consolidated)} movements")
     print(f"Most newest future schedule: {files[-1]}")
