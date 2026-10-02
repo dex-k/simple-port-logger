@@ -54,16 +54,20 @@ def gen_daily_movements():
     logger.debug(f"Found table headings: {headings}")
 
     # Parse through each row in the table body
+    now = datetime.now(ZoneInfo("Australia/Sydney"))
     movement_count = 0
     for row in tbody.select("tr"):
         columns = [td.get_text(strip=True) for td in row.find_all("td")]
         if columns:
-            # Convert date and time to a datetime object
-            date_str = f"{datetime.today().year} {columns[0]}"
-            # No space between %b and %H
-            columns[0] = datetime.strptime(date_str, "%Y %a %d %b%H:%M").replace(
-                tzinfo=ZoneInfo("Australia/Sydney")
-            )
+            # The page gives no year. The schedule is a rolling ~2 week forward window,
+            # so a January date seen in December belongs to the NEXT year — taking
+            # now.year unconditionally would date it a year in the past.
+            # (No space between %b and %H.)
+            columns[0] = datetime.strptime(
+                f"{now.year} {columns[0]}", "%Y %a %d %b%H:%M"
+            ).replace(tzinfo=ZoneInfo("Australia/Sydney"))
+            if now.month == 12 and columns[0].month == 1:
+                columns[0] = columns[0].replace(year=now.year + 1)
             movement = dict(zip(headings, columns))
             movement_count += 1
 
