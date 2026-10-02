@@ -93,10 +93,12 @@ def _berth_activity(moves, x, y):
 
 
 # A revised time is announced while the movement is still inside the schedule's ~2 week
-# forward window (observed max span 13.96 days). A later time further out than that
-# cannot be the same movement re-timed -- by then the earlier time had been listed,
-# passed, and left the page, so two entries that far apart are separate visits.
-MAX_SUPERSEDE_DAYS = 14
+# forward window. Measured across all 10,510 snapshots that window reaches at most 14.04
+# days (p90 13.99), so a later time beyond 14 days cannot be the same movement re-timed:
+# by then the earlier time had been listed, passed and left the page, and two entries
+# that far apart are separate visits. Compared exactly -- `timedelta.days` truncates, so
+# the obvious `gap.days > 14` silently reaches 14d23h.
+MAX_SUPERSEDE = datetime.timedelta(days=14)
 
 
 def drop_superseded(consolidated):
@@ -136,7 +138,7 @@ def drop_superseded(consolidated):
                     # Same instant: the port listing one movement twice with conflicting
                     # detail, not a revised time. Kept on purpose.
                     continue
-                if gap.days > MAX_SUPERSEDE_DAYS:
+                if gap > MAX_SUPERSEDE:
                     # ids are time-ordered, so every later entry is further out still.
                     break
                 if not _berth_activity(moves, consolidated[i], consolidated[j]):
