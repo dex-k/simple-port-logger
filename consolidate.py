@@ -105,7 +105,7 @@ def drop_superseded(consolidated):
     """One row per real movement, using the port's own physical constraint.
 
     A vessel cannot arrive at a berth twice without departing it in between, nor depart
-    twice without arriving back at it. So when two entries share a vessel, route and
+    twice without arriving back at it. So when two entries share a vessel, berth and
     direction and nothing happened at that berth between them, they cannot both describe
     separate events: the earlier one is the same movement under a time the port later
     revised, and only the later time says what actually happened.
@@ -113,13 +113,18 @@ def drop_superseded(consolidated):
     Where such a movement does sit between the two, they are genuine repeat visits and
     both are kept -- collapsing those would discard real movements.
     """
-    by_route = {}
+    # Group by the BERTH rather than the whole route. The constraint is about the berth,
+    # and keying on the far end hides a pair whenever the port revised that end -- two
+    # departures from M7 three hours apart, one recorded To "Unknown" and the next
+    # "Kinuura", are one movement the rule never compared. An arrival is anchored by
+    # where it arrives, a departure by where it leaves from.
+    by_berth = {}
     for i, movement in enumerate(consolidated):
         if movement["ARR / DEP"] not in ("Arrival", "Departure"):
             continue  # a Shift is not one half of an arrival/departure pair
-        route = (movement["Vessel"], movement["From"], movement["To"], movement["ARR / DEP"])
-        by_route.setdefault(route, []).append(i)
-    for ids in by_route.values():
+        berth = movement["To"] if movement["ARR / DEP"] == "Arrival" else movement["From"]
+        by_berth.setdefault((movement["Vessel"], berth, movement["ARR / DEP"]), []).append(i)
+    for ids in by_berth.values():
         ids.sort(key=lambda i: consolidated[i]["Date & Time"])
 
     by_vessel = {}
@@ -127,10 +132,10 @@ def drop_superseded(consolidated):
         by_vessel.setdefault(movement["Vessel"], []).append(movement)
 
     superseded = set()
-    for route, ids in by_route.items():
+    for (vessel, _berth, _direction), ids in by_berth.items():
         if len(ids) < 2:
             continue
-        moves = by_vessel[route[0]]
+        moves = by_vessel[vessel]
         for n, i in enumerate(ids):
             for j in ids[n + 1:]:
                 gap = consolidated[j]["Date & Time"] - consolidated[i]["Date & Time"]
