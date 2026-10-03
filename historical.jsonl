@@ -4579,3 +4579,4 @@
 {"Date & Time": "2026-10-03T21:30:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ricsea", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-10-03T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "STI VIrtus", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Singapore", "In port": "Yes"}
 {"Date & Time": "2026-10-04T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Lady Bellamelia", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-10-04T06:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hakutaka", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Hitachinaka", "In port": "Yes"}
