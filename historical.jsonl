@@ -4580,3 +4580,5 @@
 {"Date & Time": "2026-10-03T23:00:00+10:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "STI VIrtus", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Dyke 1 (D1)", "To": "Singapore", "In port": "Yes"}
 {"Date & Time": "2026-10-04T00:01:00+10:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Lady Bellamelia", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-10-04T06:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hakutaka", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Hitachinaka", "In port": "Yes"}
+{"Date & Time": "2026-10-04T08:26:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Soma Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 9 (K9)", "To": "Souma", "In port": "Yes"}
+{"Date & Time": "2026-10-04T09:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cape Legacy", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Port Kembla", "To": "Kooragang 9 (K9)", "In port": "No"}
