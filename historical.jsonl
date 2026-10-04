@@ -4599,3 +4599,4 @@
 {"Date & Time": "2026-10-05T03:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Haiming 1", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-05T05:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tachibana II", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Fukuyama, Kagoshima", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-10-05T07:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Lady Bellamelia", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 6 (K6)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-05T08:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Poro Nupuri Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tomakomai", "To": "Kooragang 6 (K6)", "In port": "No"}
