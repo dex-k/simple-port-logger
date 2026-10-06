@@ -4612,3 +4612,4 @@
 {"Date & Time": "2026-10-06T00:01:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Reihou", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Hitachinaka", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-10-06T03:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ricsea", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 10 (K10)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-06T05:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "CS Hangzhou", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Bayuquan", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-10-06T08:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Fuji Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 8 (K8)", "To": "Yantai", "In port": "Yes"}
