@@ -4632,3 +4632,5 @@
 {"Date & Time": "2026-10-07T18:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Akaki", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-07T19:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Star Kvarven", "Vessel type": "Open Hatch Cargo Ship", "Agent": "MON", "From": "West Basin 3 (W3)", "To": "East Basin 1 (E1)", "In port": "Yes"}
 {"Date & Time": "2026-10-07T20:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xing Fu Hai", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Shanwei Pt", "In port": "Yes"}
+{"Date & Time": "2026-10-08T05:17:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Double Fantasy", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Kooragang 9 (K9)", "To": "", "In port": "No"}
+{"Date & Time": "2026-10-08T06:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sun Excelsior", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Busan", "To": "Kooragang 7 (K7)", "In port": "No"}
