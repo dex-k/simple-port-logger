@@ -4646,3 +4646,5 @@
 {"Date & Time": "2026-10-08T20:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Vanguard", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Brisbane", "To": "Mayfield 4 (M4)", "In port": "No"}
 {"Date & Time": "2026-10-08T21:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pabal", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Philippines - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-10-08T23:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shoyo", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Dejima", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-10-09T01:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Scarlet Rosella", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Machong", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-10-09T04:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sun Excelsior", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Matsuura, Nagasaki", "In port": "Yes"}
