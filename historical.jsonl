@@ -4651,3 +4651,5 @@
 {"Date & Time": "2026-10-09T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "KWK Revelation", "Vessel type": "Crude/Oil Products Tanker", "Agent": "WAV", "From": "Botany Bay", "To": "Mayfield 7 (M7)", "In port": "No"}
 {"Date & Time": "2026-10-09T09:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shofu Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 4 (K4)", "To": "Haramachi", "In port": "Yes"}
 {"Date & Time": "2026-10-09T10:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hc Shining", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-09T11:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kassiopi.Gr", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-10-09T12:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tzoumaz", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Bahudopi", "To": "Kooragang 4 (K4)", "In port": "No"}
