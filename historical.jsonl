@@ -4666,3 +4666,6 @@
 {"Date & Time": "2026-10-10T10:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Mind", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-10-10T11:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Pegasus", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Wenzhou Pt", "In port": "Yes"}
 {"Date & Time": "2026-10-10T12:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Awoba", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Chiba", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-10-10T13:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Majesty", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Kudamatsu", "In port": "Yes"}
+{"Date & Time": "2026-10-10T14:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cemtex Hunter", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kinuura", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-10-10T15:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maple Fortune", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Auckland", "In port": "Yes"}
