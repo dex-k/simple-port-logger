@@ -4663,3 +4663,6 @@
 {"Date & Time": "2026-10-10T06:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Frontier VIsta", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-10-10T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Raraka", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Mauban", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-10-10T08:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pabal", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-10T10:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Mind", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-10-10T11:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Pegasus", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Wenzhou Pt", "In port": "Yes"}
+{"Date & Time": "2026-10-10T12:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Spring Awoba", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Chiba", "To": "Dyke 4 (D4)", "In port": "No"}
