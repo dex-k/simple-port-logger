@@ -4679,3 +4679,5 @@
 {"Date & Time": "2026-10-11T03:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Gordons Bay", "Vessel type": "Chemical/Products Tanker", "Agent": "ISS", "From": "Ulsan", "To": "Kooragang 3 (K3)", "In port": "No"}
 {"Date & Time": "2026-10-11T05:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tzoumaz", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 4 (K4)", "To": "Chinese Taipei - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-11T06:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shun Ying", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Jinghai", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-10-11T09:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Great Mind", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Korea, South - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-11T11:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Akira", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Zhuhai Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
