@@ -4703,3 +4703,6 @@
 {"Date & Time": "2026-10-12T13:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spring Awoba", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-12T14:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Hc Progress 2", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dongguan Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-10-12T15:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ultra Determination", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Port Kembla", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-10-12T16:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Inlaco Harmony", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Townsville", "To": "Dyke 2 (D2)", "In port": "No"}
+{"Date & Time": "2026-10-12T20:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Aal Shanghai", "Vessel type": "General Cargo Ship", "Agent": "CLK", "From": "Gladstone", "To": "Mayfield 4 (M4)", "In port": "No"}
+{"Date & Time": "2026-10-12T21:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Akira", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 7 (K7)", "To": "Malaysia - Unknown", "In port": "Yes"}
