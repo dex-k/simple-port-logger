@@ -4711,3 +4711,5 @@
 {"Date & Time": "2026-10-13T01:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Amoy Sunny", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Xiaolan", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-10-13T05:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gns Harvest", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Dyke 5 (D5)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-13T07:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pacific Hibiscus", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Zhanjiang Pt", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-10-13T12:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Golden Faith", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Tsuruga", "In port": "Yes"}
+{"Date & Time": "2026-10-13T13:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hc Progress 2", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Dongguan Pt", "In port": "Yes"}
