@@ -4722,3 +4722,4 @@
 {"Date & Time": "2026-10-13T23:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ultra Determination", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 4 (D4)", "To": "Hokuto Hokkaido", "In port": "Yes"}
 {"Date & Time": "2026-10-14T03:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leading Bravery", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Ishikawa", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-10-14T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Saline", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Nantong Pt", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-10-14T11:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Amoy Sunny", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "Rizhao Pt", "In port": "Yes"}
