@@ -4725,3 +4725,5 @@
 {"Date & Time": "2026-10-14T14:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Leading Bravery", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Ishikawa", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-10-14T16:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tairyu", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Tachibana", "In port": "Yes"}
 {"Date & Time": "2026-10-14T19:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gns Harmony 1", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Korea, South - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-15T02:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Guo Jia Neng Yuan 821", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tokuyama", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-10-15T04:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pegasus Island", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Souma", "In port": "Yes"}
