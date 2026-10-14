@@ -4727,3 +4727,5 @@
 {"Date & Time": "2026-10-14T19:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gns Harmony 1", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-15T02:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Guo Jia Neng Yuan 821", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tokuyama", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-10-15T04:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pegasus Island", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 6 (K6)", "To": "Souma", "In port": "Yes"}
+{"Date & Time": "2026-10-15T07:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pacific Hibiscus", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Dyke 5 (D5)", "To": "Yokkaichi", "In port": "Yes"}
+{"Date & Time": "2026-10-15T08:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shonai Maru", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Japan - Unknown", "In port": "Yes"}
