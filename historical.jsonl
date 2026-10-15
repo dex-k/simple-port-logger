@@ -4738,3 +4738,4 @@
 {"Date & Time": "2026-10-15T20:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Great Vanguard", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Zhoushan Pt", "In port": "Yes"}
 {"Date & Time": "2026-10-15T22:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Guo Jia Neng Yuan 821", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "Hong Kong, China - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-16T04:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nikiland", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhoushan Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-10-16T07:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Indigo Ace", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
