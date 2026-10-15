@@ -4733,3 +4733,6 @@
 {"Date & Time": "2026-10-15T13:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Optimum", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Onahama", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-10-15T14:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Msxt Echo", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Yeosu", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-10-15T15:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Great Lamda", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Onsan/Ulsan", "To": "Mayfield 7 (M7)", "In port": "No"}
+{"Date & Time": "2026-10-15T16:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Juno Horizon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Muroran", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-10-15T17:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kaiyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tonda", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-10-15T20:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Great Vanguard", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Zhoushan Pt", "In port": "Yes"}
