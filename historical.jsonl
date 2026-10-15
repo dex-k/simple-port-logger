@@ -4736,3 +4736,4 @@
 {"Date & Time": "2026-10-15T16:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Juno Horizon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Muroran", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-10-15T17:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kaiyo", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tonda", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-10-15T20:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Great Vanguard", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 2 (D2)", "To": "Zhoushan Pt", "In port": "Yes"}
+{"Date & Time": "2026-10-15T22:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Guo Jia Neng Yuan 821", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 7 (K7)", "To": "Hong Kong, China - Unknown", "In port": "Yes"}
