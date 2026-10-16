@@ -4749,3 +4749,4 @@
 {"Date & Time": "2026-10-16T20:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Optimum", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 8 (K8)", "To": "Onahama", "In port": "Yes"}
 {"Date & Time": "2026-10-16T21:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pan Future", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-10-16T22:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jin Xia Feng", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dangjin", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-10-17T06:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Lin Miarak", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Nadahama", "In port": "Yes"}
