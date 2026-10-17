@@ -4762,3 +4762,6 @@
 {"Date & Time": "2026-10-17T20:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Star Kirkenes", "Vessel type": "Open Hatch Cargo Ship", "Agent": "ISS", "From": "East Basin 2 (E2)", "To": "Melbourne", "In port": "Yes"}
 {"Date & Time": "2026-10-17T21:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Valadon", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Tsukinokawa", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-10-17T22:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Singan", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
+{"Date & Time": "2026-10-17T23:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Future", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Korea, South - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-18T01:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Xin Dong Guan 16", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Xinsha", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-10-18T02:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Wincanton", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Newcastle", "To": "Kooragang 2 (K2)", "In port": "No"}
