@@ -4783,3 +4783,5 @@
 {"Date & Time": "2026-10-19T01:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Berge Jebel Jais", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "Kooragang 3 (K3)", "In port": "No"}
 {"Date & Time": "2026-10-19T02:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Taipower Prosperity VII", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Dyke 5 (D5)", "To": "Kaohsiung", "In port": "Yes"}
 {"Date & Time": "2026-10-19T03:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Etg Mishima", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Kobe", "In port": "Yes"}
+{"Date & Time": "2026-10-19T05:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Britain Bay", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kuantan (Tanjong Gelang)", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-10-19T06:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Trust", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Oita", "To": "Kooragang 5 (K5)", "In port": "No"}
