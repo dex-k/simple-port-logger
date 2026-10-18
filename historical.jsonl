@@ -4772,3 +4772,4 @@
 {"Date & Time": "2026-10-18T08:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Ocean Favour", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-10-18T09:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pan Navigator", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 6 (K6)", "To": "Korea, South - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-18T10:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "CS Chongqing", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Longkou Pt", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-10-18T12:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Asphalt Transporter", "Vessel type": "Asphalt/Bitumen Tanker", "Agent": "WSS", "From": "Mayfield 7 (M7)", "To": "Gladstone", "In port": "Yes"}
