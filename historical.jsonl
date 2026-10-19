@@ -4800,3 +4800,4 @@
 {"Date & Time": "2026-10-19T21:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gl La Paz", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-19T23:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Star Sophia", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Zhoushan Pt", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-10-20T00:01:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Guo Yuan 20", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Kooragang 8 (K8)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-20T02:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Taipower Prosperity V", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kaohsiung", "To": "Kooragang 8 (K8)", "In port": "No"}
