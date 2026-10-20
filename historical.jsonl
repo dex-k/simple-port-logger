@@ -4816,3 +4816,6 @@
 {"Date & Time": "2026-10-21T04:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Trust", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-21T05:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Aris", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-21T06:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Jabal Alkawr", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Hong Kong", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-10-21T07:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sol Explorer", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-10-21T08:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Taipower Prosperity V", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 8 (K8)", "To": "Kaohsiung", "In port": "Yes"}
+{"Date & Time": "2026-10-21T09:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Prolin", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Singapore", "To": "Kooragang 8 (K8)", "In port": "No"}
