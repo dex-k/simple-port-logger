@@ -4812,3 +4812,4 @@
 {"Date & Time": "2026-10-20T19:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Britain Bay", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Soma", "In port": "Yes"}
 {"Date & Time": "2026-10-20T20:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cemtex Leader", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kinuura", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-10-20T21:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sakura Crescent", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Dejima", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-10-20T23:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mari Jone", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Onsan/Ulsan", "To": "Dyke 1 (D1)", "In port": "No"}
