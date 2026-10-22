@@ -4843,3 +4843,5 @@
 {"Date & Time": "2026-10-22T20:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sidari", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-22T21:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kai Yang Star", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kakogawa", "To": "Kooragang 4 (K4)", "In port": "No"}
 {"Date & Time": "2026-10-22T23:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Maizuru Bishamon", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 9 (K9)", "To": "Maizuru", "In port": "Yes"}
+{"Date & Time": "2026-10-23T00:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pedhoulas Cherry", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Mizushima", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-10-23T04:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Global Gold", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
