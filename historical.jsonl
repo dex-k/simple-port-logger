@@ -4846,3 +4846,5 @@
 {"Date & Time": "2026-10-23T00:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pedhoulas Cherry", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Mizushima", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-10-23T04:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Global Gold", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Brisbane", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-10-23T07:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Alcor", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-23T08:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Bentley", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Maoming", "To": "Kooragang 10 (K10)", "In port": "No"}
+{"Date & Time": "2026-10-23T09:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Calypso Island", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Yokohama", "In port": "Yes"}
