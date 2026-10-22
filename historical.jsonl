@@ -4835,3 +4835,5 @@
 {"Date & Time": "2026-10-22T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Sol Explorer", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-22T09:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "W-Sky", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Incheon", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-10-22T10:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Prolin", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 8 (K8)", "To": "Taichung", "In port": "Yes"}
+{"Date & Time": "2026-10-22T11:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Pomone", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
+{"Date & Time": "2026-10-22T12:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Calypso Island", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kinuura", "To": "Kooragang 5 (K5)", "In port": "No"}
