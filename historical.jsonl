@@ -4850,3 +4850,4 @@
 {"Date & Time": "2026-10-23T09:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Calypso Island", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 5 (K5)", "To": "Yokohama", "In port": "Yes"}
 {"Date & Time": "2026-10-23T11:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Voyager", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-10-23T12:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Plover Arrow", "Vessel type": "Open Hatch Cargo Ship", "Agent": "ISS", "From": "Bluff", "To": "East Basin 1 (E1)", "In port": "No"}
+{"Date & Time": "2026-10-23T16:03:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yue Da 2", "Vessel type": "Bulk Carrier", "Agent": "NCIGA", "From": "Newcastle", "To": "Kooragang 8 (K8)", "In port": "No"}
