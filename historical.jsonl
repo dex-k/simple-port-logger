@@ -4876,3 +4876,4 @@
 {"Date & Time": "2026-10-25T04:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Triton", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-10-25T05:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hull", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Channel Berth (CH)", "To": "Kanda, Fukuoka", "In port": "Yes"}
 {"Date & Time": "2026-10-25T06:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Global Gold", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
+{"Date & Time": "2026-10-25T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Voyager", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Kimitsu", "In port": "Yes"}
