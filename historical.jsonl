@@ -4872,3 +4872,5 @@
 {"Date & Time": "2026-10-24T23:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Berge Ben Nevis", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Brisbane", "To": "East Basin 1 (E1)", "In port": "No"}
 {"Date & Time": "2026-10-25T00:01:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Youthful", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 9 (K9)", "To": "Japan - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-25T01:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Guo Hai Lian 665", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Yantai", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-10-25T03:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Chailease Cherish", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 7 (K7)", "To": "Xiamen", "In port": "Yes"}
+{"Date & Time": "2026-10-25T04:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Triton", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Japan - Unknown", "To": "Kooragang 7 (K7)", "In port": "No"}
