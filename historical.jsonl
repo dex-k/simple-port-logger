@@ -4877,3 +4877,5 @@
 {"Date & Time": "2026-10-25T05:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hull", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Channel Berth (CH)", "To": "Kanda, Fukuoka", "In port": "Yes"}
 {"Date & Time": "2026-10-25T06:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Global Gold", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Geelong", "In port": "Yes"}
 {"Date & Time": "2026-10-25T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nsu Voyager", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 5 (K5)", "To": "Kimitsu", "In port": "Yes"}
+{"Date & Time": "2026-10-25T09:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "White Rose", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-10-25T10:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Alpha Pride", "Vessel type": "Bulk Carrier", "Agent": "BLA", "From": "Kooragang 8 (K8)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
