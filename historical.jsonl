@@ -4885,3 +4885,5 @@
 {"Date & Time": "2026-10-25T19:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Ikan Beliak", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 6 (K6)", "To": "Xiamen", "In port": "Yes"}
 {"Date & Time": "2026-10-25T20:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Corona Citrus", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Tokuyama", "To": "Kooragang 6 (K6)", "In port": "No"}
 {"Date & Time": "2026-10-25T21:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Guo Hai Lian 665", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 9 (K9)", "To": "Malaysia - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-25T23:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Kelly", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 4 (K4)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-26T03:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sakura Angel", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Japan - Unknown", "To": "Kooragang 4 (K4)", "In port": "No"}
