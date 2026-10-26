@@ -4901,3 +4901,7 @@
 {"Date & Time": "2026-10-27T00:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tong Xiang", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Boryeong", "To": "Kooragang 5 (K5)", "In port": "No"}
 {"Date & Time": "2026-10-27T05:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Singan", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Burnie", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-10-27T06:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Citrus", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Yokohama", "In port": "Yes"}
+{"Date & Time": "2026-10-27T07:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Shift", "Vessel": "Hull", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-10-27T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Elegant Salute", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Yeosu", "To": "Kooragang 6 (K6)", "In port": "No"}
+{"Date & Time": "2026-10-27T08:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Brio Faith", "Vessel type": "General Cargo Ship", "Agent": "AWS", "From": "Bell Bay", "To": "Mayfield 4 (M4)", "In port": "No"}
+{"Date & Time": "2026-10-27T09:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tientsin", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Gladstone", "To": "East Basin 2 (E2)", "In port": "No"}
