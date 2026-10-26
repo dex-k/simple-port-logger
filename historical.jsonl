@@ -4899,3 +4899,5 @@
 {"Date & Time": "2026-10-26T21:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Graecia Nautica", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Korea, South - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-10-26T22:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cassiopeia Ocean", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Yangzhong", "To": "Kooragang 7 (K7)", "In port": "No"}
 {"Date & Time": "2026-10-27T00:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Tong Xiang", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Boryeong", "To": "Kooragang 5 (K5)", "In port": "No"}
+{"Date & Time": "2026-10-27T05:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Singan", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Burnie", "To": "Kooragang 2 (K2)", "In port": "No"}
+{"Date & Time": "2026-10-27T06:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Corona Citrus", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 6 (K6)", "To": "Yokohama", "In port": "Yes"}
