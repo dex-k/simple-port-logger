@@ -4913,3 +4913,6 @@
 {"Date & Time": "2026-10-27T22:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Cassiopeia Ocean", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "Taichung", "In port": "Yes"}
 {"Date & Time": "2026-10-27T23:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Samatan", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Jianghai", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-10-28T00:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hull", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 4 (D4)", "To": "Kanda, Fukuoka", "In port": "Yes"}
+{"Date & Time": "2026-10-28T01:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Fj Fresia", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Songxia Pt", "To": "Dyke 4 (D4)", "In port": "No"}
+{"Date & Time": "2026-10-28T03:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Akatsuki", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Chiba", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-10-28T05:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tong Xiang", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
