@@ -4934,3 +4934,4 @@
 {"Date & Time": "2026-10-29T07:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Graecia Nautica", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "Indonesia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-29T09:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Georgios", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "Korea, South - Unknown", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-10-29T10:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Akatsuki", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 7 (K7)", "To": "Haramachi", "In port": "Yes"}
+{"Date & Time": "2026-10-29T12:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Lowlands Kami", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Hibiki-Nada", "To": "Kooragang 7 (K7)", "In port": "No"}
