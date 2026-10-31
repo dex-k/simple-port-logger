@@ -4962,3 +4962,6 @@
 {"Date & Time": "2026-10-31T06:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Wincanton", "Vessel type": "LPG Tanker", "Agent": "ISS", "From": "Kooragang 2 (K2)", "To": "Gladstone", "In port": "Yes"}
 {"Date & Time": "2026-10-31T08:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Tientsin", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Kooragang 3 (K3)", "To": "Australia - Unknown", "In port": "Yes"}
 {"Date & Time": "2026-10-31T09:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Matisse", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Japan - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-10-31T10:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Prt Kaho", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Nadahama", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-10-31T11:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Pirika Mosiri Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 10 (K10)", "To": "Tomakomai", "In port": "Yes"}
+{"Date & Time": "2026-10-31T12:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Spring Harmony", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 5 (K5)", "To": "Japan - Unknown", "In port": "Yes"}
