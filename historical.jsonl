@@ -4977,3 +4977,5 @@
 {"Date & Time": "2026-11-01T03:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Atlantic Falcon", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Dyke 1 (D1)", "To": "Westernport", "In port": "Yes"}
 {"Date & Time": "2026-11-01T04:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Gouverneur", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 4 (K4)", "To": "Unknown", "In port": "Yes"}
 {"Date & Time": "2026-11-01T06:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Osaka Star", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Fukuyama, Hiroshima", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-11-01T08:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Nord Miyabi", "Vessel type": "Chemical/Products Tanker", "Agent": "GAC", "From": "Mayfield 7 (M7)", "To": "Singapore", "In port": "Yes"}
+{"Date & Time": "2026-11-01T10:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Hc Progress", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 7 (K7)", "To": "Dongguan Pt", "In port": "Yes"}
