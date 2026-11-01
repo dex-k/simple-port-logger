@@ -4990,3 +4990,5 @@
 {"Date & Time": "2026-11-01T23:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shine Jade", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 8 (K8)", "To": "Putian", "In port": "Yes"}
 {"Date & Time": "2026-11-02T01:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Kira Oldendorff", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Zhoushan Pt", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-11-02T03:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Zje Ocean 1", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Kooragang 5 (K5)", "To": "China, People's Republic Of - Unknown", "In port": "Yes"}
+{"Date & Time": "2026-11-02T04:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Fj Azalea", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Mizushima", "To": "Dyke 5 (D5)", "In port": "No"}
+{"Date & Time": "2026-11-02T06:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Nsu Young Star", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Nagoya, Aichi", "To": "Kooragang 5 (K5)", "In port": "No"}
