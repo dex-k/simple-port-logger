@@ -5031,3 +5031,5 @@
 {"Date & Time": "2026-11-04T23:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Blc First", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Rizhao Pt", "To": "Dyke 4 (D4)", "In port": "No"}
 {"Date & Time": "2026-11-05T01:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Phatra Naree", "Vessel type": "Bulk Carrier", "Agent": "WAV", "From": "Portland", "To": "Kooragang 2 (K2)", "In port": "No"}
 {"Date & Time": "2026-11-05T02:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cielo D' Italia", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Lanshan Pt", "To": "Kooragang 4 (K4)", "In port": "No"}
+{"Date & Time": "2026-11-05T05:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Cape Proteus", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 9 (K9)", "In port": "No"}
+{"Date & Time": "2026-11-05T10:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Unison Jasper", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Townsville", "To": "Dyke 2 (D2)", "In port": "No"}
