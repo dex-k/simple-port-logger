@@ -5253,7 +5253,6 @@
 {"Date & Time": "2026-11-18T12:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Shinryo Maru", "Vessel type": "Bulk Carrier", "Agent": "NYK", "From": "Kooragang 4 (K4)", "To": "Kinwan", "In port": "No"}
 {"Date & Time": "2026-11-18T13:42:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Prestige D", "Vessel type": "Bulk Carrier", "Agent": "LBH", "From": "China, People's Republic Of - Unknown", "To": "Kooragang 8 (K8)", "In port": "No"}
 {"Date & Time": "2026-11-18T15:21:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Xing Fu Hai", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Kooragang 10 (K10)", "To": "", "In port": "No"}
-{"Date & Time": "2026-11-18T16:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Liuzhou", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Yokkaichi", "In port": "No"}
 {"Date & Time": "2026-11-18T19:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Energia Azalea", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Kooragang 7 (K7)", "To": "Kudamatsu", "In port": "No"}
 {"Date & Time": "2026-11-18T20:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Da Yu", "Vessel type": "Bulk Carrier", "Agent": "SGM", "From": "Newcastle", "To": "Dyke 5 (D5)", "In port": "No"}
 {"Date & Time": "2026-11-18T21:15:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "First Merlot", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Zhoushan Pt", "To": "Kooragang 7 (K7)", "In port": "No"}
@@ -5282,3 +5281,5 @@
 {"Date & Time": "2026-11-20T03:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yu Heng Star", "Vessel type": "Bulk Carrier", "Agent": "WSS", "From": "Qingdao Pt", "To": "Kooragang 9 (K9)", "In port": "No"}
 {"Date & Time": "2026-11-20T04:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Mountain Lion", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Tianjin Pt", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-11-20T07:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Star Japan", "Vessel type": "Open Hatch Cargo Ship", "Agent": "ISS", "From": "Brisbane", "To": "West Basin 4 (W4)", "In port": "No"}
+{"Date & Time": "2026-11-20T09:00:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Poro Nupuri Maru", "Vessel type": "Bulk Carrier", "Agent": "GAC", "From": "Tomakomai", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-11-20T10:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Bbg Liuzhou", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Dyke 5 (D5)", "To": "Yokkaichi", "In port": "Yes"}
