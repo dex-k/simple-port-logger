@@ -5300,3 +5300,6 @@
 {"Date & Time": "2026-11-21T14:45:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Mountain Lion", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Kooragang 10 (K10)", "To": "Kaohsiung", "In port": "Yes"}
 {"Date & Time": "2026-11-21T16:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Rizokarpaso", "Vessel type": "Bulk Carrier", "Agent": "ISS", "From": "Ennore", "To": "Kooragang 10 (K10)", "In port": "No"}
 {"Date & Time": "2026-11-21T17:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Shandong Fu De", "Vessel type": "Bulk Carrier", "Agent": "WSA", "From": "Tanjung Pelepas", "To": "Kooragang 7 (K7)", "In port": "No"}
+{"Date & Time": "2026-11-21T19:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Departure", "Vessel": "Viking Venus", "Vessel type": "Passenger/Cruise", "Agent": "WSS", "From": "Channel Berth (CH)", "To": "Sydney", "In port": "Yes"}
+{"Date & Time": "2026-11-21T20:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Sirtaki", "Vessel type": "Chemical/Products Tanker", "Agent": "WAV", "From": "Botany Bay", "To": "Dyke 1 (D1)", "In port": "No"}
+{"Date & Time": "2026-11-21T23:30:00+11:00", "Expected": "N/A", "ARR / DEP": "Arrival", "Vessel": "Yu Hong", "Vessel type": "Bulk Carrier", "Agent": "MON", "From": "Boryeong", "To": "Kooragang 4 (K4)", "In port": "No"}
